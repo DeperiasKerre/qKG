@@ -1,0 +1,58 @@
+@prefix ns1: <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#> .
+@prefix ns2: <https://qudt.org/schema/qudt/> .
+@prefix ns3: <https://dcmi.github.io/bibo/#:> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:BoundToContinum a ns1:LaserDesignType .
+
+ns1:ContinousWaveOperation a ns1:LaserWorkingMode .
+
+ns1:DOI rdfs:range xsd:string .
+
+ns1:DoubleResonantPhonon a ns1:LaserDesignType .
+
+ns1:LOPhononDepopulation a ns1:LaserDesignType .
+
+ns1:LasingFrequency a ns2:QuantityKind,
+        <https://w3id.org/mdo/core/Property> ;
+    prov:wasAttributedTo <http://purl.org/ontology/bibo/AcademicArticle> ;
+    ns1:relatesToHeterostructure ns1:LaserHeterostructure ;
+    ns2:hasQuantityKind <https://qudt.org/vocab/quantitykind/Frequency> ;
+    ns2:hasUnit <https://qudt.org/vocab/unit/TeraHZ> .
+
+ns1:OpticalPower a ns2:QuantityKind,
+        <https://w3id.org/mdo/core/Property> ;
+    prov:wasAttributedTo <http://purl.org/ontology/bibo/AcademicArticle> ;
+    ns1:relatesToHeterostructure ns1:LaserHeterostructure ;
+    ns2:hasQuantityKind <https://qudt.org/vocab/quantitykind/Power> ;
+    ns2:hasUnit <https://qudt.org/vocab/unit/MilliW> .
+
+ns1:PulsedOperation a ns1:LaserWorkingMode .
+
+ns1:URL rdfs:range schema:URL .
+
+ns1:WorkingTemperature a ns2:QuantityKind,
+        <https://w3id.org/mdo/core/Property> ;
+    rdfs:label "Working Temperature" ;
+    prov:wasAttributedTo <http://purl.org/ontology/bibo/AcademicArticle> ;
+    ns1:correspondsToWorkingMode ns1:LaserWorkingMode ;
+    ns1:relatesToHeterostructure ns1:LaserHeterostructure ;
+    ns2:hasQuantityKind <https://qudt.org/vocab/quantitykind/Temperature> ;
+    ns2:hasUnit <https://qudt.org/vocab/unit/K> .
+
+ns1:matFormula rdfs:range xsd:string .
+
+ns2:numericValue rdfs:range schema:Number .
+
+ns1:LaserHeterostructure prov:wasAttributedTo <http://purl.org/ontology/bibo/AcademicArticle> ;
+    ns1:hasDesignType ns1:LaserDesignType ;
+    ns1:hasMaterials ns1:HeterostructureMaterials .
+
+ns1:LaserWorkingMode prov:wasAttributedTo <http://purl.org/ontology/bibo/AcademicArticle> .
+
+<http://purl.org/ontology/bibo/AcademicArticle> rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> ;
+    ns3:cites <http://purl.org/ontology/bibo/AcademicArticle> .
+
