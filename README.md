@@ -2,7 +2,7 @@
 * In this work, we propopose a pipeline for an automatic generation of a knowledge graph (KG) for the QCL semiconductor laser properties from scientific literature based ona RAG-enabled LLM and the QCL ontology.
 * The approach entails automatic extraction of QCL prpoerties of interest form scientific literature based on a RAG-powered LLM  and population of the KG Schema with the extracted properties to generate the KG.
 ## KG Schema
-![entities](Figures/qKG.png "KG Schema")
+![entities](Images/qKG.png "KG Schema")
 ## Citation
 * TBD
 ### License
