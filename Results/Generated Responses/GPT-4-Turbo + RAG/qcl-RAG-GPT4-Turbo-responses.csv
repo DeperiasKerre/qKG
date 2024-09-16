@@ -12,7 +12,7 @@
 190 K, 125 K"
 "Extracted Properties:
 
-107 K"
+107 K, 91 K"
 "Extracted Properties:
 
 GaAs/Al0.23Ga0.77As"
@@ -30,7 +30,7 @@ In0.6Ga0.4As/InAs"
 325 K"
 "Extracted Properties:
 
-resonant-phonon"
+none"
 "Extracted Properties:
 
 195 K"
@@ -48,20 +48,28 @@ none"
 none"
 "Extracted Properties:
 
-113 K in pulsed mode, 89 K in continuous wave (cw) mode"
+113 K, 89 K"
 "Extracted Properties:
 
 70K"
 "Extracted Properties:
 
-LO phonon"
-resonant-phonon
+none"
+"Extracted Properties:
+
+none"
 "Extracted Properties:
 
 182 K"
-none
-GaAs/Al0.15Ga0.85As
-LO phonon
+"Extracted Properties:
+
+none"
+"Extracted Properties:
+
+GaAs/Al0.15Ga0.85As"
+"Extracted Properties:
+
+none"
 "Extracted Properties:
 
 LO-phonon-based depopulation"
@@ -70,7 +78,7 @@ LO-phonon-based depopulation"
 3.5 THz"
 "Extracted Properties:
 
-115 K in pulsed mode, 98 K in continuous wave (cw) mode"
+115 K, 98 K"
 "Extracted Properties:
 
 13.5 THz"
@@ -80,31 +88,39 @@ LO-phonon-based depopulation"
 "Extracted Properties:
 
 9.5 THz"
-GaAs/Al0.15Ga0.85As
 "Extracted Properties:
 
-scattering-assisted injection and resonant-phonon depopulation"
+GaAs/Al0.15Ga0.85As"
 "Extracted Properties:
 
-1.88 THz, 2.42 THz"
-LO phonon
+scattering-assisted injection, resonant-phonon depopulation"
 "Extracted Properties:
 
-18mW"
+1.88 and 2.42 THz"
+"Extracted Properties:
+
+none"
+"Extracted Properties:
+
+18 mW"
 "Extracted Properties:
 
 6 THz"
 "Extracted Properties:
 
 10 mW"
-GaAs/AlGaAs
+"Extracted Properties:
+
+GaAs/AlGaAs"
 "Extracted Properties:
 
 5.2 THz"
 "Extracted Properties:
 
 15 mW"
-3.2 THz
+"Extracted Properties:
+
+8.2 THz"
 "Extracted Properties:
 
 10 milliwatts"
@@ -114,11 +130,15 @@ bound-to-continuum"
 "Extracted Properties:
 
 2.12 THz, 2.06 THz"
-260 K
+"Extracted Properties:
+
+260 K"
 "Extracted Properties:
 
 bound-to-continuum"
-resonant-phonon
+"Extracted Properties:
+
+none"
 "Extracted Properties:
 
 119 K"
@@ -133,7 +153,7 @@ GaAs/Al0.15Ga0.85As"
 GaN/In0.3Ga0.7As"
 "Extracted Properties:
 
-resonant-phonon"
+none"
 "Extracted Properties:
 
 5.6 W"
@@ -146,7 +166,9 @@ scattering-assisted injection and resonant-phonon depopulation"
 "Extracted Properties:
 
 3.63 THz"
-GaAs/Al0.12Ga0.88As
+"Extracted Properties:
+
+GaAs/Al0.12Ga0.88As"
 "Extracted Properties:
 
 bound-to-continuum"
@@ -155,7 +177,7 @@ bound-to-continuum"
 InGaN/AlGaN"
 "Extracted Properties:
 
-LO-phonon"
+none"
 "Extracted Properties:
 
 0.7 mW"
@@ -170,13 +192,13 @@ LO-phonon"
 95K"
 "Extracted Properties:
 
-LO phonon"
+resonant LO phonon scheme"
 "Extracted Properties:
 
 40mW"
 "Extracted Properties:
 
-8mW"
+8 mW"
 "Extracted Properties:
 
 0.8 mW"
@@ -213,8 +235,12 @@ LO phonon"
 "Extracted Properties:
 
 175 K"
-resonant-phonon
-bound-to-continuum
+"Extracted Properties:
+
+none"
+"Extracted Properties:
+
+bound-to-continuum"
 "Extracted Properties:
 
 2.62 THz"
@@ -226,7 +252,7 @@ bound-to-continuum
 3 THz"
 "Extracted Properties:
 
-LO phonon"
+none"
 "Extracted Properties:
 
 165 K"
@@ -235,7 +261,7 @@ LO phonon"
 5 THz"
 "Extracted Properties:
 
-85 K"
+85 K, 20 K"
 "Extracted Properties:
 
 27 mW"
@@ -250,7 +276,7 @@ none"
 1.8 THz"
 "Extracted Properties:
 
-resonant-phonon"
+none"
 "Extracted Properties:
 
 2 mW"
@@ -271,22 +297,28 @@ resonant-phonon"
 0.5 mW"
 "Extracted Properties:
 
-220 K"
+220 K, 135 K"
 "Extracted Properties:
 
 bound-to-continuum"
 "Extracted Properties:
 
 35 mW"
-GaAs/Al0.15Ga0.85As
 "Extracted Properties:
 
-resonant-phonon"
+GaAs/Al0.15Ga0.85As"
 "Extracted Properties:
 
-250mW"
-In0.53Ga0.47As/GaAs0.51Sb0.49
-none
+none"
+"Extracted Properties:
+
+250 mW"
+"Extracted Properties:
+
+In0.53Ga0.47As/GaAs0.51Sb0.49"
+"Extracted Properties:
+
+none"
 "Extracted Properties:
 
 178 K"
@@ -299,7 +331,9 @@ none
 "Extracted Properties:
 
 217 K"
-220 K
+"Extracted Properties:
+
+220 K"
 "Extracted Properties:
 
 5.3 THz"
@@ -321,15 +355,21 @@ InAs/InP"
 "Extracted Properties:
 
 bound-to-continuum"
-LO phonon
+"Extracted Properties:
+
+resonant LO phonon"
 "Extracted Properties:
 
 0.23 W"
 "Extracted Properties:
 
 300 K"
-3.36 and 3.92 THz
-GaAs/Al0.15Ga0.85As
+"Extracted Properties:
+
+3.36 and 3.92 THz"
+"Extracted Properties:
+
+multilayer"
 "Extracted Properties:
 
 7.3 THz"
