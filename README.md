@@ -2,6 +2,9 @@
 * The repository contains the materials (source code and data) for the work proposed in the paper "Semantic Enrichment of the Quantum Cascade Laser Properties- A workflow for the Knowledge Graph Generation From Text". 
 * In this work, we propopose a pipeline for an automatic generation of a knowledge graph (KG) for the QCL semiconductor laser properties from scientific literature based on a RAG(Retrieval Augmented Generation)-enabled LLM and the QCL ontology.
 * The approach entails automatic extraction of QCL prpoerties of interest form scientific literature based on a RAG-powered LLM  and population of the KG Schema with the extracted properties to generate the KG.
+
+## Information Extraction Pipeline
+![entities](Images/RAG_Pipeline "RAG")
 ## KG Schema
 ![entities](Images/qKG.png "KG Schema")
 ## Citation
