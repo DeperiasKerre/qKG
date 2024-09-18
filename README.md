@@ -4,7 +4,7 @@
 * The approach entails automatic extraction of QCL prpoerties of interest form scientific literature based on a RAG-powered LLM  and population of the KG Schema with the extracted properties to generate the KG.
 
 ## Information Extraction Pipeline
-![entities](Images/RAG_Pipeline "RAG")
+![entities](Images/RAG_Pipeline.png "RAG")
 ## KG Schema
 ![entities](Images/qKG.png "KG Schema")
 ## Citation
