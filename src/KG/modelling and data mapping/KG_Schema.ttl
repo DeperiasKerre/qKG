@@ -1,0 +1,66 @@
+@prefix ns1: <https://qudt.org/schema/qudt#> .
+@prefix ns2: <https://qudt.org/schema/qudt/> .
+@prefix ns3: <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#> .
+@prefix ns4: <https://dcmi.github.io/bibo/#:> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ns3:BoundToContinum a ns3:LaserDesignType .
+
+ns3:ContinousWaveOperation a ns3:LaserWorkingMode .
+
+ns3:DoubleResonantPhonon a ns3:LaserDesignType .
+
+ns3:LOPhononDepopulation a ns3:LaserDesignType .
+
+ns3:LasingFrequency a <https://w3id.org/mdo/core/Property> ;
+    prov:wasAttributedTo ns4:AcademicArticle ;
+    ns3:relatesToHeterostructure ns3:LaserHeterostructure ;
+    ns1:hasQuantityValue ns3:FrequencyValue ;
+    ns2:hasQuantityKind <https://qudt.org/vocab/quantitykind/Frequency> .
+
+ns3:OpticalPower a <https://w3id.org/mdo/core/Property> ;
+    prov:wasAttributedTo ns4:AcademicArticle ;
+    ns3:relatesToHeterostructure ns3:LaserHeterostructure ;
+    ns1:hasQuantityValue ns3:PowerValue ;
+    ns2:hasQuantityKind <https://qudt.org/vocab/quantitykind/Power> .
+
+ns3:PulsedOperation a ns3:LaserWorkingMode .
+
+ns3:WorkingTemperature a <https://w3id.org/mdo/core/Property> ;
+    prov:wasAttributedTo ns4:AcademicArticle ;
+    ns3:correspondsToWorkingMode ns3:LaserWorkingMode ;
+    ns3:relatesToHeterostructure ns3:LaserHeterostructure ;
+    ns1:hasQuantityValue ns3:WorkingTempValue ;
+    ns2:hasQuantityKind <https://qudt.org/vocab/quantitykind/Temperature> .
+
+ns3:FrequencyValue a <http://qudt.org/schema/qudt/QuantityValue> ;
+    ns2:hasUnit <https://qudt.org/vocab/unit/TeraHZ> .
+
+ns3:PowerValue a <http://qudt.org/schema/qudt/QuantityValue> ;
+    ns2:hasUnit <https://qudt.org/vocab/unit/MilliW> .
+
+ns3:WorkingTempValue a <http://qudt.org/schema/qudt/QuantityValue> ;
+    ns2:hasUnit <https://qudt.org/vocab/unit/K> .
+
+<https://qudt.org/vocab/quantitykind/Frequency> a ns2:QuantityKind .
+
+<https://qudt.org/vocab/quantitykind/Power> a ns2:QuantityKind .
+
+<https://qudt.org/vocab/quantitykind/Temperature> a ns2:QuantityKind .
+
+<https://qudt.org/vocab/unit/K> a ns2:Unit .
+
+<https://qudt.org/vocab/unit/MilliW> a ns2:Unit .
+
+<https://qudt.org/vocab/unit/TeraHZ> a ns2:Unit .
+
+ns3:LaserHeterostructure prov:wasAttributedTo ns4:AcademicArticle ;
+    ns3:hasDesignType ns3:LaserDesignType ;
+    ns3:hasMaterials ns3:HeterostructureMaterials .
+
+ns3:LaserWorkingMode prov:wasAttributedTo ns4:AcademicArticle .
+
+ns4:AcademicArticle rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> ;
+    ns4:cites ns4:AcademicArticle .
+
