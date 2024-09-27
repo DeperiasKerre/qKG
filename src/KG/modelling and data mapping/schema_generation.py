@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Sep 27 08:20:39 2024
+
+@author: Deperias Kerre
+"""
+
 #libraries for the graph instance and namespaces
 from rdflib import Graph, RDF, RDFS, URIRef, Namespace
 
