@@ -1,44 +1,47 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 20 11:11:34 2024
+#libraries for the graph instance and namespaces
+from rdflib import Graph, RDF, RDFS, URIRef, Namespace
 
-@author: Deperias Kerre
-"""
-#importing a graph structure and other ontology URIs
-from rdflib import Graph
-#import other libraries
-from rdflib import Graph, Literal, RDF, RDFS, URIRef, OWL
+#Creating a graph instance and adding all the defined properties
+myGraph=Graph()
+
+#binding Ontology prefixes to namespaces
+namespace_qcl_onto = Namespace("https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#")
+myGraph.bind("QpOnto", namespace_qcl_onto)
+#BIBO ontology
+namespace_bibo=Namespace("https://dcmi.github.io/bibo/#:")
+myGraph.bind("bibo", namespace_bibo)
+#MDO ontology
+namespace_mdo=Namespace("https://w3id.org/mdo/core/")
+myGraph.bind("mdo", namespace_mdo)
 
 #URIs
-#QCL Ontology prefix URI
-QpOnto="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#"
 
 # 1.KG Schema Classes
 ##agent
 agent=URIRef("https://www.w3.org/TR/prov-o/#Agent")
 
 ##academic article
-academic_article=URIRef("https://dcmi.github.io/bibo/#:AcademicArticle")
+academic_article=namespace_bibo["AcademicArticle"]
 
 ##property
-Property=URIRef("https://w3id.org/mdo/core/Property")
+Property=namespace_mdo["Property"]
 
 ##laser working mode
-working_mode=URIRef(QpOnto+"LaserWorkingMode")
+working_mode=namespace_qcl_onto["LaserWorkingMode"]
 
 ##optoelectronic characteristics
-working_temperature=URIRef(QpOnto+"WorkingTemperature")
-optical_power=URIRef(QpOnto+"OpticalPower")
-lasing_frequency=URIRef(QpOnto+"LasingFrequency")
+working_temperature=namespace_qcl_onto["WorkingTemperature"]
+optical_power=namespace_qcl_onto["OpticalPower"]
+lasing_frequency=namespace_qcl_onto["LasingFrequency"]
 
 ##laser heterostructure
-heterostructure=URIRef(QpOnto+"LaserHeterostructure")
+heterostructure=namespace_qcl_onto["LaserHeterostructure"]
 
 ##heterostructure materials
-materials=URIRef(QpOnto+"HeterostructureMaterials")
+materials=namespace_qcl_onto["HeterostructureMaterials"]
 
 ##design type
-laser_design=URIRef(QpOnto+"LaserDesignType")
+laser_design=namespace_qcl_onto["LaserDesignType"]
 
 ##unit
 unit=URIRef("https://qudt.org/schema/qudt/Unit")
@@ -55,13 +58,13 @@ qudt_quantitykind="https://qudt.org/vocab/quantitykind/"
 # 2.URIs for Class Instances
 
 ##Laser Working Modes
-continous_wave=URIRef(QpOnto+"ContinousWaveOperation")
-pulsed_mode=URIRef(QpOnto+"PulsedOperation")
+continous_wave=namespace_qcl_onto["ContinousWaveOperation"]
+pulsed_mode=namespace_qcl_onto["PulsedOperation"]
 
 ##Laser Design Types
-lo_phonon=URIRef(QpOnto+"LOPhononDepopulation")
-bound_continum=URIRef(QpOnto+"BoundToContinum")
-double_resonant=URIRef(QpOnto+"DoubleResonantPhonon")
+lo_phonon=namespace_qcl_onto["LOPhononDepopulation"]
+bound_continum=namespace_qcl_onto["BoundToContinum"]
+double_resonant=namespace_qcl_onto["DoubleResonantPhonon"]
 
 ##Property Units
 qudt_unit="https://qudt.org/vocab/unit/"
@@ -75,24 +78,24 @@ frequency=URIRef(qudt_quantitykind+"Frequency")
 temperature=URIRef(qudt_quantitykind+"Temperature")
 
 ##URIs for quantity Values
-frequency_value=URIRef(QpOnto+ "FrequencyValue")
-power_value= URIRef(QpOnto+"PowerValue")
-temperature_value=URIRef(QpOnto+"WorkingTempValue")
+frequency_value=namespace_qcl_onto["FrequencyValue"]
+power_value= namespace_qcl_onto["PowerValue"]
+temperature_value=namespace_qcl_onto["WorkingTempValue"]
 
 #3.URIs for object properties 
 
 #was attributed to
 attributed_to=URIRef("http://www.w3.org/ns/prov#wasAttributedTo")
 #has materials
-has_materials=URIRef(QpOnto+"hasMaterials")
+has_materials=namespace_qcl_onto["hasMaterials"]
 #has quantity kind
 has_quantitykind=URIRef("https://qudt.org/schema/qudt/hasQuantityKind")
 #has design type
-has_designtype=URIRef(QpOnto+"hasDesignType")
+has_designtype=namespace_qcl_onto["hasDesignType"]
 #relates to heterostructure
-relates_to_heterostructure=URIRef(QpOnto+"relatesToHeterostructure")
+relates_to_heterostructure=namespace_qcl_onto["relatesToHeterostructure"]
 #corresponds to working mode
-corresponds_to_working_mode=URIRef(QpOnto+"correspondsToWorkingMode")
+corresponds_to_working_mode=namespace_qcl_onto["correspondsToWorkingMode"]
 #has unit
 has_unit=URIRef("https://qudt.org/schema/qudt/hasUnit")
 #cites
@@ -105,19 +108,15 @@ has_quantity_value=URIRef("https://qudt.org/schema/qudt#hasQuantityValue")
 #for the rdfs subclass, no need to define as its already included in the imported RDFS library
 
 #4.URIs for data properties
-doi_prop=URIRef(QpOnto+"DOI")
-materials_prop=URIRef(QpOnto+"matFormula")
+doi_prop=namespace_qcl_onto["DOI"]
+materials_prop=namespace_qcl_onto["matFormula"]
 numerical_value=URIRef("https://qudt.org/schema/qudt/numericValue")
-publication_url=URIRef(QpOnto+"URL")
+publication_url=namespace_qcl_onto["URL"]
 
 #datatypes
 string=URIRef("http://www.w3.org/2001/XMLSchema#string")
 number=URIRef("https://schema.org/Number")
 URL=URIRef("https://schema.org/URL")
-
-#Generating the KG Schema
-##Creating a graph instance and adding all the defined properties
-myGraph=Graph()
 
 ##mapping subclasses
 myGraph.add((academic_article, RDFS.subClassOf, agent))
