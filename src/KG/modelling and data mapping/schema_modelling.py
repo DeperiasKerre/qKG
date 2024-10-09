@@ -182,4 +182,9 @@ myGraph.add((temperature_value, has_unit, Kelvin))
 print(f"Number of elements:{len(myGraph)}")
 
 #Generating the KG Schema in turtle format
-myGraph.serialize(destination="KG_Schema.ttl")
+#Serializing the generated RDF data in turtle format
+kg_schema_data_ttl = myGraph.serialize(format='turtle')
+#print(xml_rdf)
+# Save the serialized data to a file
+with open('KG_Schema.ttl', 'wb') as f:
+    f.write(kg_schema_data_ttl.encode('utf-8'))
