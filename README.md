@@ -7,8 +7,9 @@
 ![entities](Images/RAG_Pipeline.png "RAG")
 ## KG Schema
 ![entities](Images/qKG.png "KG Schema")
-## SPARQL Queries
-The SPARQL queries and there results can be found [here](https://github.com/DeperiasKerre/qKG/tree/main/Results/KG). 
+## KG Data Files and the SPARQL Queries
+* The KG data files in RDF/XML na d Turtle Formats can be accessed here.
+* The SPARQL queries and there results can be found [here](https://github.com/DeperiasKerre/qKG/tree/main/Results/KG). 
 ## Citation
 * TBD
 ### License
