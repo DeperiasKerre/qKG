@@ -8,7 +8,7 @@
 ## KG Schema
 ![entities](Images/qKG.png "KG Schema")
 ## KG Data Files and the SPARQL Queries
-* The KG data files in RDF/XML na d Turtle Formats can be accessed [here](https://github.com/DeperiasKerre/qKG/tree/main/qcl_KG).
+* The KG data files in RDF/XML and Turtle Formats can be accessed [here](https://github.com/DeperiasKerre/qKG/tree/main/qcl_KG).
 * The SPARQL queries and there results can be found [here](https://github.com/DeperiasKerre/qKG/tree/main/Results/KG). 
 ## Citation
 * TBD
