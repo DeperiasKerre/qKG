@@ -1,43 +1,43 @@
-﻿Abstract_DOI,HS_Materials,Power_Value,Power_Unit,Frequency Value,Design_Type,TemperatureValue_CW,Temperature_ValuePM,,,,
-10.1063/1.2189671,none,none,none,1.9,none,95,110,,,,
-10.1364/OE.23.019689,GaAs/Al0.15Ga0.85As,10,milliwatt,2.1,resonant-phonon,none,144,,,,
-10.1063/1.1554479,GaAs/Al0.15Ga0.85As,2.5,milliwatt,3.44,longitudinal-optical,none,65,,,,
-10.1063/1.3114418,none,63,milliwatt,3.9,Resonant-phonon,186,none,,,,
-10.1063/1.4862177,GaAs/Al0.25Ga0.75As,none,none,2.67,none,151,none,,,,
-10.1063/1.3702571,GaAs/Al0.25Ga0.75As,none,none,3.2,none,138,none,,,,
-10.1063/1.4983030,none,none,none,3.1,none,none,none,,,,
-10.1088/0256-307X/30/6/064201,none,62,milliwatt,3.2,bound-to-continuum,60,85,,,,
-10.1088/1361-6641/abdd4b,GaAs/AlAs,none,none,3.36,none,none,none,,,,
-10.1088/1757-899X/475/1/012020,GaAs/Al0.15Ga0.85As,none,none,none,none,none,none,,,,
-10.1364/OE.26.009194,GaAs/Al0.17Ga0.83As,none,none,none,none,144,none,,,,
-10.1063/5.0198236,GaAs/Al0.14Ga0.86As,none,none,6.4,none,81,none,,,,
-10.1088/1367-2630/18/12/123004,GaAs/AlGaAs,200,milliwatt,4.7,none,150,none,,,,
-10.1063/1.4766915,In0.53Ga0.47As/GaAs0.51Sb0.49,9,milliwatt,none,none,142,none,,,,
-10.1063/1.4826943,none,470,milliwatt,3.9,none,122,none,,,,
-10.1088/1674-1056/25/8/084206,none,177,milliwatt,3.27,none,70,none,,,,
-10.1063/1.4959195,none,0.23,watt,3.11,none,65,none,,,,
-10.1063/1.4939551,InAs/AlAs0.16Sb0.84,none,none,3.8,resonant phonon,none,none,,,,
-10.1088/1367-2630/17/2/023050,InGaAs/AlInGaAs,none,none,none,LO-Phonon,195,none,,,,
-10.1063/1.2404598,GaAs/Al0.1Ga0.9As,none,none,1.6,bound-to-continuum,80,95,,,,
-10.1364/OPEX.13.003331,none,none,none,3,resonant-phonon,117,164,,,,
-10.1063/1.2793177,GaAs/Al0.1Ga0.9As,0.36,milliwatt,1.32,none,none,84,,,,
-10.1088/0268-1242/20/7/013,none,none,none,2.1,LO-phonon,97,137,,,,
-10.1063/5.0176281,InGaAs/GaAsSb,30,microwatt,none,none,170,none,,,,
-10.1063/1.3068496,Al0.03Ga0.97As,none,none,3,none,none,123,,,,
-10.1364/OE.17.019926,none,none,none,2.3,none,98,120,,,,
-10.1063/1.4943657,GaAs/AlAs,none,none,4.75,none,none,none,,,,
-10.1063/1.2136222,GaAs/Al0.15Ga0.85As,none,none,3,longitudinal-optical phonon,none,140,,,,
-10.1063/1.4816352,AlInGaAs,none,none,3.8,none,130,none,,,,
-10.1063/1.3532106,In0.53Ga0.47As/GaAs0.51Sb0.49,1.8,milliwatt,3.6,three-well phonon depopulation,102,none,,,,
-10.1049/el.2013.4035,none,1,watt,3.4,bound-to-continuum,123,none,,,,
-10.1364/OE.16.003242,none,none,none,3,resonant phonon,178,none,,,,
-10.1063/1.2737129,none,100,milliwatt,2.83,bound-to-continuum,40,none,,,,
-10.1063/1.2216112,GaAs/Al0.3Ga0.7As,none,none,none,longitudinal-optical phonon,105,138,,,,
-10.1063/1.3496035,GaAs/Al0.15Ga0.85As,none,none,3,double-phonon resonant,172,none,,,,
-10.1063/1.1611642,none,none,none,3,resonant phonon,none,77,,,,
-10.1063/1.2437071,none,none,none,3.4,resonant-phonon depopulation,142,none,,,,
-10.1063/1.3579260,none,100,milliwatt,none,none,210,none,,,,
-10.1063/1.5110305,none,200,milliwatt,none,none,210.5,none,,,,
-10.1364/OE.438636,none,37,milliwatt,1.9,none,none,102,,,,
-10.1088/1361-6641/ab1401,GaN/AlGaN,8,milliwatt,none,two-phonon-resonance,230,none,,,,
-10.1063/5.0155250,none,none,none,none,direct-phonon design,167,none,,,,
+﻿Abstract_DOI,HS_Materials_Formula,HS_ID,power_ID,Power_Value,Power_Unit,frequency_ID,Frequency Value,Design_Type,temp_cw_ID,TemperatureValue_CW,temp_pm_ID,Temperature_ValuePM
+10.1063/1.2189671,none,none,none,none,none,f1,1.9,none,t1,95,t31,110
+10.1364/OE.23.019689,GaAs/Al0.15Ga0.85As,HS1,p1,10,milliwatt,f2,2.1,resonant-phonon,none,none,t32,144
+10.1063/1.1554479,GaAs/Al0.15Ga0.85As,HS2,p2,2.5,milliwatt,f3,3.44,longitudinal-optical,none,none,t33,65
+10.1063/1.3114418,none,HS3,p3,63,milliwatt,f4,3.9,Resonant-phonon,t2,186,none,none
+10.1063/1.4862177,GaAs/Al0.25Ga0.75As,HS4,none,none,none,f5,2.67,none,t3,151,none,none
+10.1063/1.3702571,GaAs/Al0.25Ga0.75As,HS5,none,none,none,f6,3.2,none,t4,138,none,none
+10.1063/1.4983030,none,none,none,none,none,f7,3.1,none,none,none,none,none
+10.1088/0256-307X/30/6/064201,none,HS6,p4,62,milliwatt,f8,3.2,bound-to-continuum,t5,60,t34,85
+10.1088/1361-6641/abdd4b,GaAs/AlAs,HS7,none,none,none,f9,3.36,none,none,none,none,none
+10.1088/1757-899X/475/1/012020,GaAs/Al0.15Ga0.85As,HS8,none,none,none,none,none,none,none,none,none,none
+10.1364/OE.26.009194,GaAs/Al0.17Ga0.83As,HS9,none,none,none,none,none,none,t6,144,none,none
+10.1063/5.0198236,GaAs/Al0.14Ga0.86As,HS10,none,none,none,f10,6.4,none,t7,81,none,none
+10.1088/1367-2630/18/12/123004,GaAs/AlGaAs,HS11,p5,200,milliwatt,f11,4.7,none,t8,150,none,none
+10.1063/1.4766915,In0.53Ga0.47As/GaAs0.51Sb0.49,HS12,p6,9,milliwatt,none,none,none,t9,142,none,none
+10.1063/1.4826943,none,none,p7,470,milliwatt,f12,3.9,none,t10,122,none,none
+10.1088/1674-1056/25/8/084206,none,none,p8,177,milliwatt,f13,3.27,none,t11,70,none,none
+10.1063/1.4959195,none,none,p9,0.23,watt,f14,3.11,none,t12,65,none,none
+10.1063/1.4939551,InAs/AlAs0.16Sb0.84,HS13,none,none,none,f15,3.8,resonant phonon,none,none,none,none
+10.1088/1367-2630/17/2/023050,InGaAs/AlInGaAs,HS14,none,none,none,none,none,LO-Phonon,t13,195,none,none
+10.1063/1.2404598,GaAs/Al0.1Ga0.9As,HS15,none,none,none,f16,1.6,bound-to-continuum,t14,80,t35,95
+10.1364/OPEX.13.003331,none,HS16,none,none,none,f17,3,resonant-phonon,t15,117,t36,164
+10.1063/1.2793177,GaAs/Al0.1Ga0.9As,HS17,p10,0.36,milliwatt,f18,1.32,none,none,none,t37,84
+10.1088/0268-1242/20/7/013,none,HS18,none,none,none,f19,2.1,LO-phonon,t16,97,t38,137
+10.1063/5.0176281,InGaAs/GaAsSb,HS19,p11,30,microwatt,none,none,none,t17,170,none,none
+10.1063/1.3068496,Al0.03Ga0.97As,HS20,none,none,none,f20,3,none,none,none,t39,123
+10.1364/OE.17.019926,none,none,none,none,none,f21,2.3,none,t18,98,t40,120
+10.1063/1.4943657,GaAs/AlAs,HS21,none,none,none,f22,4.75,none,none,none,none,none
+10.1063/1.2136222,GaAs/Al0.15Ga0.85As,HS22,none,none,none,f23,3,longitudinal-optical phonon,none,none,t41,140
+10.1063/1.4816352,AlInGaAs,HS23,none,none,none,f24,3.8,none,t19,130,none,none
+10.1063/1.3532106,In0.53Ga0.47As/GaAs0.51Sb0.49,HS24,p12,1.8,milliwatt,f25,3.6,three-well phonon depopulation,t20,102,none,none
+10.1049/el.2013.4035,none,HS25,p13,1,watt,f26,3.4,bound-to-continuum,t21,123,none,none
+10.1364/OE.16.003242,none,HS26,none,none,none,f27,3,resonant phonon,t22,178,none,none
+10.1063/1.2737129,none,HS27,p14,100,milliwatt,f28,2.83,bound-to-continuum,t23,40,none,none
+10.1063/1.2216112,GaAs/Al0.3Ga0.7As,HS28,none,none,none,none,none,longitudinal-optical phonon,t24,105,t42,138
+10.1063/1.3496035,GaAs/Al0.15Ga0.85As,HS29,none,none,none,f29,3,double-phonon resonant,t25,172,none,none
+10.1063/1.1611642,none,HS30,none,none,none,f30,3,resonant phonon,none,none,t43,77
+10.1063/1.2437071,none,HS31,none,none,none,f31,3.4,resonant-phonon depopulation,t26,142,none,none
+10.1063/1.3579260,none,none,p15,100,milliwatt,none,none,none,t27,210,none,none
+10.1063/1.5110305,none,none,p16,200,milliwatt,none,none,none,t28,210.5,none,none
+10.1364/OE.438636,none,none,p17,37,milliwatt,f32,1.9,none,none,none,t44,102
+10.1088/1361-6641/ab1401,GaN/AlGaN,HS32,p18,8,milliwatt,none,none,two-phonon-resonance,t29,230,none,none
+10.1063/5.0155250,none,HS33,none,none,none,none,none,direct-phonon design,t30,167,none,none
