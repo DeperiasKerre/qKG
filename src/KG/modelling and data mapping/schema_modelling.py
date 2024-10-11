@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 28 12:13:36 2024
+Created on Fri Oct 11 12:10:35 2024
 
 @author: Deperias Kerre
 """
 #importing a graph structure and other ontology URIs
 from rdflib import Graph
 #import other libraries
-from rdflib import Graph, Literal, RDF, RDFS, URIRef, OWL, Namespace
+from rdflib import Graph, Literal, RDF, RDFS, URIRef, Namespace
 
 #Generating the KG Schema
 ##Creating a graph instance and adding all the defined properties
@@ -26,13 +26,13 @@ myGraph.bind("mdo", namespace_mdo)
 ##QUDT-The QUDT ontology has several subdivisions of vocabularies
 ###Units
 namespace_qudt_units = Namespace("https://qudt.org/vocab/unit/")
-myGraph.bind("QUDT.units", namespace_qudt_units)
+myGraph.bind("QUDT_units", namespace_qudt_units)
 ###Quantity Kinds
 namespace_qudt_quantity_kind = Namespace("https://qudt.org/vocab/quantitykind/")
-myGraph.bind("QUDT.quantity_kinds", namespace_qudt_quantity_kind)
+myGraph.bind("QUDT_quantity_kinds", namespace_qudt_quantity_kind)
 ###properties
 namespace_qudt_properties = Namespace("https://qudt.org/schema/qudt/")
-myGraph.bind("QUDT.properties", namespace_qudt_properties)
+myGraph.bind("QUDT_properties", namespace_qudt_properties)
 
 #URIS for KG Concepts
 
@@ -75,6 +75,8 @@ temperature=namespace_qudt_quantity_kind["Temperature"]
 ##URIS for Units
 Kelvin=namespace_qudt_units["K"]
 Milliwatt=namespace_qudt_units["MilliW"]
+Watt=namespace_qudt_units["W"]
+Microwatt=namespace_qudt_units["MicroW"]
 TeraHertz=namespace_qudt_units["TeraHZ"]
 
 ##Laser Working Modes
@@ -117,7 +119,7 @@ publication_url=namespace_qcl_onto["URL"]
 
 #datatypes
 string=URIRef("http://www.w3.org/2001/XMLSchema#string")
-number=URIRef("https://schema.org/Number")
+number=URIRef("http://www.w3.org/2001/XMLSchema#float")
 URL=URIRef("https://schema.org/URL")
 
 ##mapping subclasses and class instances
@@ -138,9 +140,6 @@ myGraph.add((bound_continum, RDF.type, laser_design))
 myGraph.add((double_resonant, RDF.type, laser_design))
 
 ##Implementing the object properties
-
-#cite property
-myGraph.add((academic_article, cites, academic_article))
 
 #was attributed to
 myGraph.add((working_temperature, attributed_to, academic_article))
@@ -181,10 +180,10 @@ myGraph.add((temperature_value, has_unit, Kelvin))
 #number of graph elements
 print(f"Number of elements:{len(myGraph)}")
 
-#Generating the KG Schema in turtle format
 #Serializing the generated RDF data in turtle format
 kg_schema_data_ttl = myGraph.serialize(format='turtle')
 #print(xml_rdf)
 # Save the serialized data to a file
 with open('KG_Schema.ttl', 'wb') as f:
     f.write(kg_schema_data_ttl.encode('utf-8'))
+
