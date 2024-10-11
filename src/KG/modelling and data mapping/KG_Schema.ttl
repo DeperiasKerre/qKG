@@ -1,6 +1,6 @@
-@prefix QUDT.properties: <https://qudt.org/schema/qudt/> .
-@prefix QUDT.quantity_kinds: <https://qudt.org/vocab/quantitykind/> .
-@prefix QUDT.units: <https://qudt.org/vocab/unit/> .
+@prefix QUDT_properties: <https://qudt.org/schema/qudt/> .
+@prefix QUDT_quantity_kinds: <https://qudt.org/vocab/quantitykind/> .
+@prefix QUDT_units: <https://qudt.org/vocab/unit/> .
 @prefix QpOnto: <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#> .
 @prefix bibo: <https://dcmi.github.io/bibo/#:> .
 @prefix mdo: <https://w3id.org/mdo/core/> .
@@ -18,14 +18,14 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType .
 QpOnto:LasingFrequency a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:relatesToHeterostructure QpOnto:LaserHeterostructure ;
-    QUDT.properties:hasQuantityKind QUDT.quantity_kinds:Frequency ;
-    QUDT.properties:hasQuantityValue QpOnto:FrequencyValue .
+    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
+    QUDT_properties:hasQuantityValue QpOnto:FrequencyValue .
 
 QpOnto:OpticalPower a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:relatesToHeterostructure QpOnto:LaserHeterostructure ;
-    QUDT.properties:hasQuantityKind QUDT.quantity_kinds:Power ;
-    QUDT.properties:hasQuantityValue QpOnto:PowerValue .
+    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
+    QUDT_properties:hasQuantityValue QpOnto:PowerValue .
 
 QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
 
@@ -33,14 +33,14 @@ QpOnto:WorkingTemperature a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:correspondsToWorkingMode QpOnto:LaserWorkingMode ;
     QpOnto:relatesToHeterostructure QpOnto:LaserHeterostructure ;
-    QUDT.properties:hasQuantityKind QUDT.quantity_kinds:Temperature ;
-    QUDT.properties:hasQuantityValue QpOnto:WorkingTempValue .
+    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
+    QUDT_properties:hasQuantityValue QpOnto:WorkingTempValue .
 
-QpOnto:FrequencyValue QUDT.properties:hasUnit QUDT.units:TeraHZ .
+QpOnto:FrequencyValue QUDT_properties:hasUnit QUDT_units:TeraHZ .
 
-QpOnto:PowerValue QUDT.properties:hasUnit QUDT.units:MilliW .
+QpOnto:PowerValue QUDT_properties:hasUnit QUDT_units:MilliW .
 
-QpOnto:WorkingTempValue QUDT.properties:hasUnit QUDT.units:K .
+QpOnto:WorkingTempValue QUDT_properties:hasUnit QUDT_units:K .
 
 QpOnto:LaserHeterostructure prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:hasDesignType QpOnto:LaserDesignType ;
@@ -48,6 +48,5 @@ QpOnto:LaserHeterostructure prov:wasAttributedTo bibo:AcademicArticle ;
 
 QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
 
-bibo:AcademicArticle rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> ;
-    bibo:cites bibo:AcademicArticle .
+bibo:AcademicArticle rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> .
 
