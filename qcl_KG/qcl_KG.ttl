@@ -4,6 +4,8 @@
 @prefix QpOnto: <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#> .
 @prefix bibo: <https://dcmi.github.io/bibo/#:> .
 @prefix mdo: <https://w3id.org/mdo/core/> .
+@prefix ns1: <https://qudt.org/vocab/unit/#> .
+@prefix ns2: <https://qudt.org/schema/qudt#> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
@@ -12,187 +14,187 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f1> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2189671> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.9> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.9> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f10> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0198236> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS10> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/6.4> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/6.4> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f11> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/18/12/123004> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS11> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/4.7> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/4.7> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f12> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4826943> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.9> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.9> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f13> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1674-1056/25/8/084206> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.27> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.27> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f14> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4959195> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.11> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.11> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f15> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4939551> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS13> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.8> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.8> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f16> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2404598> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS15> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.6> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.6> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f17> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS16> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f18> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2793177> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS17> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.32> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.32> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f19> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/013> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS18> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.1> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.1> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f2> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.019689> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS1> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.1> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.1> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f20> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3068496> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS20> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f21> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.17.019926> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f22> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4943657> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS21> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/4.75> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/4.75> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f23> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2136222> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS22> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f24> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4816352> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS23> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.8> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.8> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f25> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS24> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.6> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.6> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f26> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2013.4035> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS25> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.4> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.4> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f27> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.16.003242> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS26> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f28> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2737129> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS27> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.83> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.83> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f29> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3496035> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS29> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f3> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS2> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.44> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.44> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f30> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1611642> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS30> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f31> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS31> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.4> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.4> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f32> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.438636> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.9> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.9> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f4> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS3> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.9> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.9> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f5> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4862177> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS4> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.67> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/2.67> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f6> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3702571> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS5> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.2> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.2> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f7> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4983030> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.1> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.1> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f8> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0256-307X/30/6/064201> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS6> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.2> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.2> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_ID/f9> a QpOnto:LasingFrequency ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1361-6641/abdd4b> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS7> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.36> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3.36> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS8> a QpOnto:LaserHeterostructure ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1757-899X/475/1/012020> ;
@@ -202,401 +204,401 @@
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.019689> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS1> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/10> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/10> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p10> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2793177> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS17> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/0.36> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/0.36> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p11> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0176281> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS19> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/30> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/30> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p12> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS24> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/1.8> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/1.8> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p13> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2013.4035> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS25> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/1> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/1> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p14> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2737129> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS27> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/100> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/100> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p15> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3579260> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/100> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/100> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p16> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.5110305> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/200> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/200> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p17> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.438636> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/37> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/37> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p18> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1361-6641/ab1401> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS32> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/8> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/8> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p2> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS2> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/2.5> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/2.5> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p3> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS3> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/63> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/63> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p4> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0256-307X/30/6/064201> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS6> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/62> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/62> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p5> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/18/12/123004> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS11> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/200> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/200> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p6> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4766915> ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS12> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/9> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/9> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p7> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4826943> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/470> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/470> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p8> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1674-1056/25/8/084206> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/177> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/177> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_ID/p9> a QpOnto:OpticalPower ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4959195> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/0.23> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#power_value_ID/0.23> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t1> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2189671> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/95> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/95> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t10> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4826943> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/122> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/122> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t11> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1674-1056/25/8/084206> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/70> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/70> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t12> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4959195> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/65> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/65> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t13> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/17/2/023050> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS14> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/195> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/195> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t14> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2404598> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS15> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/80> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/80> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t15> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS16> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/117> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/117> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t16> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/013> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS18> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/97> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/97> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t17> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0176281> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS19> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/170> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/170> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t18> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.17.019926> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/98> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/98> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t19> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4816352> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS23> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/130> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/130> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t2> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS3> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/186> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/186> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t20> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS24> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/102> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/102> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t21> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2013.4035> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS25> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/123> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/123> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t22> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.16.003242> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS26> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/178> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/178> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t23> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2737129> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS27> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/40> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/40> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t24> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2216112> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS28> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/105> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/105> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t25> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3496035> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS29> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/172> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/172> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t26> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS31> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/142> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/142> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t27> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3579260> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/210> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/210> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t28> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.5110305> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/210.5> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/210.5> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t29> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1361-6641/ab1401> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS32> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/230> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/230> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t3> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4862177> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS4> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/151> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/151> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t30> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0155250> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS33> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/167> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/167> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t4> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3702571> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS5> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/138> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/138> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t5> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0256-307X/30/6/064201> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS6> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/60> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/60> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t6> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.26.009194> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS9> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/144> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/144> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t7> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0198236> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS10> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/81> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/81> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t8> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/18/12/123004> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS11> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/150> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/150> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_ID/t9> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4766915> ;
     QpOnto:correspondsToWorkingMode QpOnto:ContinousWaveOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS12> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/142> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_cw_value_ID/142> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t31> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2189671> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/110> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/110> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t32> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.019689> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS1> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/144> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/144> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t33> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS2> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/65> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/65> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t34> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0256-307X/30/6/064201> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS6> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/85> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/85> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t35> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2404598> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS15> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/95> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/95> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t36> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS16> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/164> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/164> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t37> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2793177> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS17> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/84> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/84> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t38> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/013> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS18> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/137> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/137> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t39> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3068496> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS20> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/123> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/123> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t40> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.17.019926> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/120> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/120> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t41> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2136222> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS22> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/140> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/140> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t42> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2216112> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS28> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/138> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/138> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t43> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1611642> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QpOnto:relatesToHeterostructure <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS30> ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/77> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/77> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_ID/t44> a QpOnto:WorkingTemperature ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.438636> ;
     QpOnto:correspondsToWorkingMode QpOnto:PulsedOperation ;
     QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/102> .
+    ns1:hasQuantityValue <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#temp_pm_value_ID/102> .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/1.32> a QpOnto:FrequencyValue ;
     QUDT_properties:hasUnit QUDT_units:TeraHZ ;
@@ -4081,6 +4083,8 @@ QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
     QpOnto:DOI "10.1126/science.264.5158.553"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1126/science.264.5158.553"^^schema:URL .
 
+QUDT_units:MilliW a QUDT_properties:Unit .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1038/nphoton.2007.166"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1038/nphoton.2007.166"^^schema:URL,
@@ -4109,7 +4113,8 @@ QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
     QpOnto:DOI "10.1364/OPEX.13.003331"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OPEX.13.003331"^^schema:URL .
 
-QpOnto:PowerValue QUDT_properties:hasUnit QUDT_units:MilliW .
+QpOnto:PowerValue a <http://qudt.org/schema/qudt/QuantityValue> ;
+    QUDT_properties:hasUnit QUDT_units:MilliW .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/S0921-4526(99)00273-2>,
@@ -4129,10 +4134,15 @@ QpOnto:PowerValue QUDT_properties:hasUnit QUDT_units:MilliW .
 QpOnto:OpticalPower a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:relatesToHeterostructure QpOnto:LaserHeterostructure ;
-    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power ;
-    QUDT_properties:hasQuantityValue QpOnto:PowerValue .
+    ns2:hasQuantityValue QpOnto:PowerValue ;
+    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Power .
 
-QpOnto:FrequencyValue QUDT_properties:hasUnit QUDT_units:TeraHZ .
+QUDT_quantity_kinds:Power a QUDT_properties:QuantityKind .
+
+QpOnto:FrequencyValue a <http://qudt.org/schema/qudt/QuantityValue> ;
+    QUDT_properties:hasUnit QUDT_units:TeraHZ .
+
+QUDT_units:TeraHZ a QUDT_properties:Unit .
 
 QpOnto:ContinousWaveOperation a QpOnto:LaserWorkingMode .
 
@@ -4144,21 +4154,29 @@ QpOnto:ContinousWaveOperation a QpOnto:LaserWorkingMode .
 QpOnto:LasingFrequency a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:relatesToHeterostructure QpOnto:LaserHeterostructure ;
-    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency ;
-    QUDT_properties:hasQuantityValue QpOnto:FrequencyValue .
+    ns2:hasQuantityValue QpOnto:FrequencyValue ;
+    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Frequency .
+
+QUDT_quantity_kinds:Frequency a QUDT_properties:QuantityKind .
 
 QpOnto:LaserHeterostructure prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:hasDesignType QpOnto:LaserDesignType ;
     QpOnto:hasMaterials QpOnto:HeterostructureMaterials .
 
-QpOnto:WorkingTempValue QUDT_properties:hasUnit QUDT_units:K .
+QpOnto:WorkingTempValue a <http://qudt.org/schema/qudt/QuantityValue> ;
+    QUDT_properties:hasUnit QUDT_units:K .
 
 QpOnto:WorkingTemperature a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:correspondsToWorkingMode QpOnto:LaserWorkingMode ;
     QpOnto:relatesToHeterostructure QpOnto:LaserHeterostructure ;
-    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature ;
-    QUDT_properties:hasQuantityValue QpOnto:WorkingTempValue .
+    ns2:hasQuantityValue QpOnto:WorkingTempValue ;
+    QUDT_properties:hasQuantityKind QUDT_quantity_kinds:Temperature .
 
-bibo:AcademicArticle rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> .
+QUDT_quantity_kinds:Temperature a QUDT_properties:QuantityKind .
+
+QUDT_units:K a QUDT_properties:Unit .
+
+bibo:AcademicArticle rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> ;
+    bibo:cites bibo:AcademicArticle .
 
