@@ -1,41 +1,31 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Oct 11 12:10:35 2024
+Created on Sat Oct 12 13:41:21 2024
 
 @author: Deperias Kerre
 """
 #importing a graph structure and other ontology URIs
 from rdflib import Graph
 #import other libraries
-from rdflib import Graph, Literal, RDF, RDFS, URIRef, Namespace
+from rdflib import Graph, Literal, RDF, RDFS, URIRef, OWL, Namespace
 
 #Generating the KG Schema
 ##Creating a graph instance and adding all the defined properties
 myGraph=Graph()
 
-#binding namespace prefixes
-##QCL Ontology
+#binding Ontology prefixes to namespaces
 namespace_qcl_onto = Namespace("https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#")
 myGraph.bind("QpOnto", namespace_qcl_onto)
 #BIBO ontology
 namespace_bibo=Namespace("https://dcmi.github.io/bibo/#:")
 myGraph.bind("bibo", namespace_bibo)
-##MDO ontology
+#MDO ontology
 namespace_mdo=Namespace("https://w3id.org/mdo/core/")
 myGraph.bind("mdo", namespace_mdo)
-##QUDT-The QUDT ontology has several subdivisions of vocabularies
-###Units
-namespace_qudt_units = Namespace("https://qudt.org/vocab/unit/")
-myGraph.bind("QUDT_units", namespace_qudt_units)
-###Quantity Kinds
-namespace_qudt_quantity_kind = Namespace("https://qudt.org/vocab/quantitykind/")
-myGraph.bind("QUDT_quantity_kinds", namespace_qudt_quantity_kind)
-###properties
-namespace_qudt_properties = Namespace("https://qudt.org/schema/qudt/")
-myGraph.bind("QUDT_properties", namespace_qudt_properties)
 
-#URIS for KG Concepts
+#URIs
 
+# 1.KG Schema Classes
 ##agent
 agent=URIRef("https://www.w3.org/TR/prov-o/#Agent")
 
@@ -62,22 +52,19 @@ materials=namespace_qcl_onto["HeterostructureMaterials"]
 ##design type
 laser_design=namespace_qcl_onto["LaserDesignType"]
 
-##URIs for quantity Values
-frequency_value=namespace_qcl_onto["FrequencyValue"]
-power_value= namespace_qcl_onto["PowerValue"]
-temperature_value=namespace_qcl_onto["WorkingTempValue"]
+##unit
+unit=URIRef("https://qudt.org/schema/qudt/Unit")
 
-##URIs for Quantity Kinds
-power=namespace_qudt_quantity_kind["Power"]
-frequency=namespace_qudt_quantity_kind["Frequency"]
-temperature=namespace_qudt_quantity_kind["Temperature"]
+##quantity kind
+quantity_kind=URIRef("https://qudt.org/schema/qudt/QuantityKind")
 
-##URIS for Units
-Kelvin=namespace_qudt_units["K"]
-Milliwatt=namespace_qudt_units["MilliW"]
-Watt=namespace_qudt_units["W"]
-Microwatt=namespace_qudt_units["MicroW"]
-TeraHertz=namespace_qudt_units["TeraHZ"]
+##quantity value
+quantity_value= URIRef("http://qudt.org/schema/qudt/QuantityValue")
+
+##quantity kind
+qudt_quantitykind="https://qudt.org/vocab/quantitykind/"
+
+# 2.URIs for Class Instances
 
 ##Laser Working Modes
 continous_wave=namespace_qcl_onto["ContinousWaveOperation"]
@@ -88,14 +75,30 @@ lo_phonon=namespace_qcl_onto["LOPhononDepopulation"]
 bound_continum=namespace_qcl_onto["BoundToContinum"]
 double_resonant=namespace_qcl_onto["DoubleResonantPhonon"]
 
-#URIS for properties
-#URIS for object properties
+##Property Units
+qudt_unit="https://qudt.org/vocab/unit/"
+Kelvin=URIRef(qudt_unit+"K")
+Milliwatt=URIRef(qudt_unit+"MilliW")
+TeraHertz=URIRef(qudt_unit+"TeraHZ")
+
+##URIs for Quantity Kinds
+power=URIRef(qudt_quantitykind+"Power")
+frequency=URIRef(qudt_quantitykind+"Frequency")
+temperature=URIRef(qudt_quantitykind+"Temperature")
+
+##URIs for quantity Values
+frequency_value=namespace_qcl_onto["FrequencyValue"]
+power_value= namespace_qcl_onto["PowerValue"]
+temperature_value=namespace_qcl_onto["WorkingTempValue"]
+
+#3.URIs for object properties 
+
 #was attributed to
 attributed_to=URIRef("http://www.w3.org/ns/prov#wasAttributedTo")
 #has materials
 has_materials=namespace_qcl_onto["hasMaterials"]
 #has quantity kind
-has_quantitykind=namespace_qudt_properties["hasQuantityKind"]
+has_quantitykind=URIRef("https://qudt.org/schema/qudt/hasQuantityKind")
 #has design type
 has_designtype=namespace_qcl_onto["hasDesignType"]
 #relates to heterostructure
@@ -103,29 +106,33 @@ relates_to_heterostructure=namespace_qcl_onto["relatesToHeterostructure"]
 #corresponds to working mode
 corresponds_to_working_mode=namespace_qcl_onto["correspondsToWorkingMode"]
 #has unit
-has_unit=namespace_qudt_properties["hasUnit"]
+has_unit=URIRef("https://qudt.org/schema/qudt/hasUnit")
 #cites
-cites= namespace_bibo["cites"]
+cites= URIRef("https://dcmi.github.io/bibo/#:cites")
 #was attributed to
 attributed_to=URIRef("http://www.w3.org/ns/prov#wasAttributedTo")
 #has quantity value
-has_quantity_value=namespace_qudt_properties["hasQuantityValue"]
+has_quantity_value=URIRef("https://qudt.org/schema/qudt#hasQuantityValue")
+#sub class of
+#for the rdfs subclass, no need to define as its already included in the imported RDFS library
 
-#URIs for data properties
+#4.URIs for data properties
 doi_prop=namespace_qcl_onto["DOI"]
 materials_prop=namespace_qcl_onto["matFormula"]
-numerical_value=namespace_qudt_properties["numericValue"]
+numerical_value=URIRef("https://qudt.org/schema/qudt/numericValue")
 publication_url=namespace_qcl_onto["URL"]
 
 #datatypes
 string=URIRef("http://www.w3.org/2001/XMLSchema#string")
-number=URIRef("http://www.w3.org/2001/XMLSchema#float")
+number=URIRef("https://schema.org/Number")
 URL=URIRef("https://schema.org/URL")
 
-##mapping subclasses and class instances
+##mapping subclasses
 myGraph.add((academic_article, RDFS.subClassOf, agent))
 
-#property class instances
+##mapping class instances
+
+#property instances
 myGraph.add((working_temperature, RDF.type, Property))
 myGraph.add((optical_power, RDF.type, Property))
 myGraph.add((lasing_frequency, RDF.type, Property))
@@ -139,7 +146,25 @@ myGraph.add((lo_phonon, RDF.type, laser_design))
 myGraph.add((bound_continum, RDF.type, laser_design))
 myGraph.add((double_resonant, RDF.type, laser_design))
 
+#units
+myGraph.add((Kelvin, RDF.type, unit))
+myGraph.add((Milliwatt, RDF.type, unit))
+myGraph.add((TeraHertz, RDF.type, unit))
+
+#quantity values
+myGraph.add((frequency_value, RDF.type, quantity_value))
+myGraph.add((power_value, RDF.type, quantity_value))
+myGraph.add((temperature_value, RDF.type, quantity_value))
+
+#quantity kinds
+myGraph.add((power, RDF.type, quantity_kind))
+myGraph.add((frequency, RDF.type, quantity_kind))
+myGraph.add((temperature, RDF.type, quantity_kind))
+
 ##Implementing the object properties
+
+#cite property
+myGraph.add((academic_article, cites, academic_article))
 
 #was attributed to
 myGraph.add((working_temperature, attributed_to, academic_article))
@@ -180,10 +205,5 @@ myGraph.add((temperature_value, has_unit, Kelvin))
 #number of graph elements
 print(f"Number of elements:{len(myGraph)}")
 
-#Serializing the generated RDF data in turtle format
-kg_schema_data_ttl = myGraph.serialize(format='turtle')
-#print(xml_rdf)
-# Save the serialized data to a file
-with open('KG_Schema.ttl', 'wb') as f:
-    f.write(kg_schema_data_ttl.encode('utf-8'))
-
+#Generating the KG Schema in turtle format
+myGraph.serialize(destination="KG_Schema.ttl")
