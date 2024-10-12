@@ -2439,6 +2439,8 @@
     QUDT_properties:hasUnit QUDT_units:K ;
     QUDT_properties:numericValue "95.0"^^xsd:float .
 
+QUDT_units:MicroW rdfs:label "Microwatts"^^xsd:string .
+
 <none> a QpOnto:FrequencyValue,
         QpOnto:HeterostructureMaterials,
         QpOnto:LaserHeterostructure,
@@ -2966,6 +2968,8 @@
     QUDT_properties:hasUnit QUDT_units:K ;
     QUDT_properties:numericValue "142.0"^^xsd:float .
 
+QUDT_units:W rdfs:label "Watts"^^xsd:string .
+
 QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS1> a QpOnto:LaserHeterostructure ;
@@ -3370,7 +3374,8 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1364/OE.438636"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.438636"^^schema:URL .
 
-QpOnto:BoundToContinum a QpOnto:LaserDesignType .
+QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
+    rdfs:label "Bound to Continuum"^^xsd:string .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#heterostructure_ID/HS6> a QpOnto:LaserHeterostructure ;
     prov:wasAttributedTo <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0256-307X/30/6/064201> ;
@@ -3573,7 +3578,8 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType .
     QpOnto:DOI "10.1364/OPEX.14.000171"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OPEX.14.000171"^^schema:URL .
 
-QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType .
+QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
+    rdfs:label "Longitudinal Optical Phonon Depopulation"^^xsd:string .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#hs_materials_ID/GaAs/Al0.15Ga0.85As> a QpOnto:HeterostructureMaterials ;
     QpOnto:matFormula "GaAs/Al0.15Ga0.85As"^^xsd:string .
@@ -3950,7 +3956,8 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType .
     QpOnto:DOI "10.1364/OE.16.003242"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.16.003242"^^schema:URL .
 
-QpOnto:DoubleResonantPhonon a QpOnto:LaserDesignType .
+QpOnto:DoubleResonantPhonon a QpOnto:LaserDesignType ;
+    rdfs:label "Resonant Phonon"^^xsd:string .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
@@ -4083,7 +4090,8 @@ QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
     QpOnto:DOI "10.1126/science.264.5158.553"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1126/science.264.5158.553"^^schema:URL .
 
-QUDT_units:MilliW a QUDT_properties:Unit .
+QUDT_units:MilliW a QUDT_properties:Unit ;
+    rdfs:label "Milliwatts"^^xsd:string .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1038/nphoton.2007.166"^^xsd:string ;
@@ -4142,7 +4150,8 @@ QUDT_quantity_kinds:Power a QUDT_properties:QuantityKind .
 QpOnto:FrequencyValue a <http://qudt.org/schema/qudt/QuantityValue> ;
     QUDT_properties:hasUnit QUDT_units:TeraHZ .
 
-QUDT_units:TeraHZ a QUDT_properties:Unit .
+QUDT_units:TeraHZ a QUDT_properties:Unit ;
+    rdfs:label "Terahertz"^^xsd:string .
 
 QpOnto:ContinousWaveOperation a QpOnto:LaserWorkingMode .
 
@@ -4175,7 +4184,8 @@ QpOnto:WorkingTemperature a mdo:Property ;
 
 QUDT_quantity_kinds:Temperature a QUDT_properties:QuantityKind .
 
-QUDT_units:K a QUDT_properties:Unit .
+QUDT_units:K a QUDT_properties:Unit ;
+    rdfs:label "Kelvin"^^xsd:string .
 
 bibo:AcademicArticle rdfs:subClassOf <https://www.w3.org/TR/prov-o/#Agent> ;
     bibo:cites bibo:AcademicArticle .
