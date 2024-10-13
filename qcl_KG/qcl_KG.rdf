@@ -226,14 +226,14 @@
     <QpOnto:hasDesignType rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#LOPhononDepopulation"/>
     <QpOnto:hasMaterials rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#hs_materials_ID/GaAs/Al0.3Ga0.7As"/>
   </rdf:Description>
-  <rdf:Description rdf:about="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/&#9;10.1063/1.2907508">
+  <rdf:Description rdf:about="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2907508">
     <rdf:type rdf:resource="https://dcmi.github.io/bibo/#:AcademicArticle"/>
-    <QpOnto:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">	10.1063/1.2907508</QpOnto:DOI>
+    <QpOnto:DOI rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.1063/1.2907508</QpOnto:DOI>
     <QpOnto:URL rdf:datatype="https://schema.org/URL">https://doi.org/10.1063/1.2907508</QpOnto:URL>
   </rdf:Description>
   <rdf:Description rdf:about="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4943657">
     <rdf:type rdf:resource="https://dcmi.github.io/bibo/#:AcademicArticle"/>
-    <bibo:cites rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/&#9;10.1063/1.2907508"/>
+    <bibo:cites rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2907508"/>
     <bibo:cites rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/S1386-9477(02)00230-8"/>
     <bibo:cites rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a"/>
     <bibo:cites rdf:resource="https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166"/>
