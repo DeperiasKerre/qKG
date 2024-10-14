@@ -1,4 +1,4 @@
-## Knowleddge Graph Evaluation
+## Knowledge Graph Evaluation
 
 ### Consistency
 Logical Reasoners
