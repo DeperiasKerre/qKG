@@ -7,7 +7,7 @@ Logical Reasoners
 #### SPARQL Queries
 * The queries can be found in a csv file [here](https://github.com/DeperiasKerre/qKG/blob/main/Results/KG/Competency%20Questions.csv).
 * The queries results can be found in this [notebook](https://github.com/DeperiasKerre/qKG/blob/main/Results/KG/Sparql_Queries.ipynb).
-  CQ 1.1: What are the possible material compositions of a QCL laser heterostructure with an LO
+Query 1.1: What are the possible material compositions of a QCL laser heterostructure with an LO
 Phonon Design Type ?
 ```
     PREFIX QpOnto:<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#> 
