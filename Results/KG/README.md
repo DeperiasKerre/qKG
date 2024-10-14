@@ -1,8 +1,7 @@
 ## Knowledge Graph Evaluation
 
 ### Consistency
-Logical Reasoners
-
+* Uisng the pellet reasoner.
 ### Domain Requirements Validation
 #### SPARQL Queries
 * The queries can be found in a csv file [here](https://github.com/DeperiasKerre/qKG/blob/main/Results/KG/Competency%20Questions.csv).
