@@ -24,5 +24,5 @@ License](http://creativecommons.org/licenses/by/4.0/).
 generation for large language models: A survey. arXiv preprint arXiv:2312.10997.
 * Kerre, D., Laurent, A., Maussang, K., & Owuor, D.(2024). A Concise Ontological Model of the
 Design and Optoelectronic Properties in the Quantum Cascade Laser Domain. (Preprint-Under
-Review.
+Review).
 
