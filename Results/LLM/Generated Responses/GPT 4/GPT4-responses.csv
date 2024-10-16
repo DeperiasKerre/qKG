@@ -1,132 +1,131 @@
-Output: 3.3 THz
-Output: None
+3.3 THz
+Output: 10 mW
 The lasing frequency of the Quantum Cascade Semiconductor laser device is 2.07 THz.
-The working temperature of the Quantum Cascade Semiconductor laser device is 190 K in pulsed mode and 125 K in continuous wave mode.
-"Pulsed mode working temperature: 107 K
-Continuous wave mode working temperature: 91 K"
+190 K in pulsed mode and 125 K in continuous wave mode
+Working temperature of the Quantum Cascade Semiconductor laser device is 107 K in pulsed mode and 91 K in continuous wave (cw) mode.
 Output: GaAs/Al0.23Ga0.77As
 In0.6Ga0.4As/InAs
 3.0 THz
 185 K
 325 K
-None
+Output: None
 195 K
-The optical power of the Quantum Cascade Semiconductor laser device is ~24 mW.
+Output: 24 mW
 None
 The working temperature of the Quantum Cascade Semiconductor laser device is 150 K in pulsed mode and 110 K in continuous wave mode.
 None
-The working temperature of the Quantum Cascade Semiconductor laser device is 113 K in pulsed mode and 89 K in continuous wave (cw) mode.
+"Pulsed Mode: 113 K, Continuous Wave Mode: 89 K"
 70K
-None
-Output: Resonant-phonon terahertz
+The design type of the Quantum Cascade Semiconductor laser device is GaAs/Al0.15Ga0.85As laser structure.
+Resonant-phonon terahertz
 182 K
 None
 GaAs/Al0.15Ga0.85As
 None
 None
 3.5 THz
-"Working temperature in pulsed mode: 115 K
-Working temperature in continuous wave mode: 98 K"
-The lasing frequency of the Quantum Cascade Semiconductor laser device is 13.5 THz.
-Output: 12.4 THz
-Output: 9.5 THz
+"Pulsed mode: 115 K, Continuous wave mode: 98 K"
+13.5 THz
+12.4 THz
+9.5 THz
 GaAs/Al0.15Ga0.85As
 Scattering-assisted injection and resonant-phonon depopulation
 The lasing frequencies of the Quantum Cascade Semiconductor laser device are 1.88 THz and 2.42 THz.
 None
 18mW
 6 THz
-Output: 10 mW
+Output: The optical power of the Quantum Cascade Semiconductor laser device is ~10 mW.
 GaAs/AlGaAs
-5.2 THz
-Output: The peak-power output of the Quantum Cascade Semiconductor laser device is ~15 mW.
+The lasing frequency of the Quantum Cascade Semiconductor laser device is 5.2 THz.
+The optical power of the Quantum Cascade Semiconductor laser device is ~15 mW.
 8.2 THz
 The optical power of the Quantum Cascade Semiconductor laser device is about 10 milliwatts.
-The design type of the Quantum Cascade Semiconductor laser device is a surface-plasmon waveguide design.
+Output: Surface-plasmon waveguide design
 The lasing frequency of the Quantum Cascade Semiconductor laser device is 2.12 THz.
-260 K
+Output: 260 K
 Bound-to-continuum active region and high-resistivity surface-plasmon waveguide design
-None
+Output: None
 119 K
 225 K
 GaAs/Al0.15Ga0.85As
-Output: The heterostructure of the Quantum Cascade Semiconductor laser device is GaN/In0.3Ga0.7As.
+Output: GaN/In0.3Ga0.7As
 Resonant-phonon terahertz
-5.6 W
-The design type of the Quantum Cascade Semiconductor laser device is a scattering-assisted injection and resonant-phonon depopulation design scheme.
-Output: 25.1 W
-The lasing frequency of the Quantum Cascade Semiconductor laser device is 3.63 THz.
+The optical power of the Quantum Cascade Semiconductor laser device is 5.6 W.
+9.2 THz
+Output: None
+Output: 3.63 THz
 Output: GaAs/Al0.12Ga0.88As
-Output: Bound-to-continuum active area and semi-insulating surface-plasmon waveguide construction
+"Bound-to-continuum active area, semi-insulating surface-plasmon waveguide construction"
 InGaN/AlGaN
 None
 0.7 mW
-The working temperature of the Quantum Cascade Semiconductor laser device is 144 K.
-"Pulsed mode: 168 K, Continuous-wave mode: 121 K"
+144 K
+The working temperature of the Quantum Cascade Semiconductor laser device is 168 K in pulsed mode and 121 K in continuous-wave mode.
 95K
 None
 40mW
 8mW
-0.8 mW
-Output: The lasing frequency of the Quantum Cascade Semiconductor laser device is in the range of 3 to 4.7 THz.
+The optical power of the Quantum Cascade Semiconductor laser device is 0.8 mW.
+Output: 3 to 4.7 THz
 155 K
-0.9 mW
-The working temperature of the Quantum Cascade Semiconductor laser device is 110 K.
+Output: 0.9 mW
+110 K
 235 K
-The lasing frequency of the Quantum Cascade Semiconductor laser device is 1.2 THz.
-Output: ~33 mW
-119K
+1.2 THz
+Output: The optical power of the Quantum Cascade Semiconductor laser device is ~33 mW.
+Output: 119K
 The optical power of the Quantum Cascade Semiconductor laser device is 0.6 mW.
 90mW
 175 K
-Output: Resonant-phonon terahertz quantum-cascade laser
-"Output: Bound-to-continuum active region, Aluminum-based surface-plasmon waveguide layout"
-2.62 THz
-Output: 4.5 mW
+resonant-phonon terahertz quantum-cascade laser
+Bound-to-continuum active region and aluminum-based surface-plasmon waveguide layout
+Output: 2.62 THz
+The optical power of the Quantum Cascade Semiconductor laser device is 4.5 mW.
 3 THz
 None
 165 K
 5 THz
-"The working temperature of the Quantum Cascade Semiconductor laser device is up to 85 K in pulsed mode, and up to 20 K at 30% duty cycle."
-The optical power of the Quantum Cascade Semiconductor laser device is ~27 mW.
+"Output: 85 K, 20 K"
+27 mW
 None
 The lasing frequency of the Quantum Cascade Semiconductor laser device is 9 THz.
-The lasing frequency of the Quantum Cascade Semiconductor laser device is 1.8 THz.
-Output: Resonant-phonon terahertz Quantum Cascade Laser
+1.8 THz
+Resonant-phonon terahertz quantum-cascade lasers
 None
 The working temperature of the Quantum Cascade Semiconductor laser device is 180 K in pulsed mode and 110 K in continuous wave mode.
 7 THz
 170 K
-The optical power of the Quantum Cascade Semiconductor laser device is approximately 2.5 mW.
-0.5 mW
-Working Temperature: 220 K in pulsed mode and 135 K in continuous wave mode
-Output: Bound-to-continuum active region and high-resistivity surface-plasmon waveguide design
-35 mW
-The heterostructure of the Quantum Cascade Semiconductor laser device is GaAs/Al0.15Ga0.85As.
+Output: 2.5 mW
+Optical Power: 0.5 mW
+"Working temperature of Quantum Cascade Semiconductor laser device in pulsed mode: 220 K
+Working temperature of Quantum Cascade Semiconductor laser device in continuous wave mode: 135 K"
+Bound-to-continuum active region and high-resistivity surface-plasmon waveguide
+The optical power of the Quantum Cascade Semiconductor laser device is ~35 mW.
+GaAs/Al0.15Ga0.85As
 Resonant-phonon terahertz
 250mW
-In0.53Ga0.47As/GaAs0.51Sb0.49
+"In0.53Ga0.47As/GaAs0.51Sb0.49, lattice-matched to InP"
 Output: 100 degrees Celsius
 178 K
 5.37 THz
 0.5 mW
-217 K
+The working temperature of the Quantum Cascade Semiconductor laser device is 217 K.
 Output: 220 K
 5.3 THz
-"Bound-to-continuum active area, semi-insulating surface-plasmon waveguide design"
+The design type of the Quantum Cascade Semiconductor laser device is a semi-insulating surface-plasmon waveguide design.
 GaAs/Al0.25Ga0.75As
 InAs/InP
-The optical power of the Quantum Cascade Semiconductor laser device is 0.23 W.
-The working temperature of the Quantum Cascade Semiconductor laser device is 100K.
-Bound-to-continuum active region design with a high-resistivity surface-plasmon waveguide design
+Output: 0.23 W
+100K
+"Bound-to-continuum active region, high-resistivity surface-plasmon waveguide"
 None
 0.23 W
-Output: 300 K
-Output: 3.92 THz
-Multilayer heterostructure (MH) of the Quantum Cascade Semiconductor laser device: three quantum well GaAs/Al0.15Ga0.85As active module with diagonal transitions.
-7.3 THz
+The working temperature of the Quantum Cascade Semiconductor laser device is 300 K.
+3.36 and 3.92 THz
+Output: Three quantum well GaAs/Al0.15Ga0.85As active module
+Output: 7.3 THz
 8.9 THz
 180 K
-"Pulsed Mode: 164 K, CW Mode: 117 K"
+"Pulse mode: 169 K, Continuous wave mode: 124 K"
 None
-Output: 3.9 THz
+3.9 THz
