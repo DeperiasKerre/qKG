@@ -51,7 +51,7 @@ The working temperature of the Quantum Cascade Semiconductor laser device is 225
 "The heterostructure of the Quantum Cascade Semiconductor laser device, as per the given text, is GaN/In0.3Ga0.7As."
 "The design type of the Quantum Cascade Semiconductor laser device in the given text is not explicitly mentioned. However, the mention of ""terahertz quantum-cascade lasers"" suggests that the design type is likely a Quantum Cascade Laser (QCL), but not a specific subtype such as a resonant-phonon QCL. Therefore, the design type is not explicitly stated in the input text."
 Optical Power: 5.6 W
-"The design type of the Quantum Cascade Semiconductor laser device in the given text is ""scattering-assisted injection and resonant-phonon depopulation design scheme""."
+The lasing frequency of the Quantum Cascade Semiconductor laser device is 9.2 THz.
 The optical power of the Quantum Cascade Semiconductor laser device is 25.1 W.
 The lasing frequency of the Quantum Cascade Semiconductor laser device in the given text is 3.63 THz.
 "The heterostructure of the Quantum Cascade Semiconductor laser device, as per the given text, is not explicitly mentioned. However, it can be inferred that the active modules are made of GaAs/Al0.12Ga0.88As. This suggests that the heterostructure is GaAs/Al0.12Ga0.88As."
@@ -125,6 +125,6 @@ The heterostructure of the Quantum Cascade Semiconductor laser device is GaAs/Al
 "The lasing frequency of the Quantum Cascade Semiconductor laser device in the given text is not explicitly mentioned. Therefore, the lasing frequency is none."
 The lasing frequency of the Quantum Cascade Semiconductor laser device is 8.9 THz.
 The working temperature of the Quantum Cascade Semiconductor laser device is 180 K.
-The working temperature of the Quantum Cascade Semiconductor laser device in the given text is 164 K (164 Kelvin) in pulsed mode and 117 K (117 Kelvin) in cw mode.
+The working temperature of the Quantum Cascade Semiconductor laser device is 169 K in pulse mode.
 "The lasing frequency of the Quantum Cascade Semiconductor laser device is not explicitly mentioned in the given text. However, it is stated that previously reported THz QCLs are limited to operation around 2 THz. Since the current QCL is differentiated from these, it can be inferred that the lasing frequency of the QCL in question is also around 2 THz. However, this is an inference and not a direct extraction from the text. The exact frequency could be slightly different, but it is within the range of 2 THz. Therefore, the lasing frequency of the Quantum Cascade Semiconductor laser device is approximately 2 THz."
 The lasing frequency of the Quantum Cascade Semiconductor laser device is 3.9 THz.
