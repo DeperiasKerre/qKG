@@ -1,7 +1,7 @@
 ﻿Query Number,Query Text
 1.1,What are the possible material compositions of a QCL laser heterostructure with an LO Phonon Design Type ?
 1.2,What are the possible material compositions of a QCL laser heterostructure with a Resonant Phonon Design Type?
-1.3,Query 1.3: What are the possible material compositions of a QCL laser heterostructure with a Bound to Continuum Type?
+1.3,What are the possible material compositions of a QCL laser heterostructure with a Bound to Continuum Type?
 2.1,What are the working temperatures for a QCL laser operating in the continuous wave mode?
 2.2,What are the working temperatures for a QCL laser operating in the pulsed mode?
 3.1,What are the possible power values for a QCL laser with a heterostructure with material composition GaAs/Al0.15Ga0.85As?
@@ -17,5 +17,5 @@
 6.4,What are the DOIs and URLs of scientific articles documenting QCL lasers with bound tocontinuum design type?
 6.5,"What are the DOIs and URLs of articles documenting QCL lasers with a heterostructure of material composition GaAs/Al0.15Ga0.85As, LO phonon design type and working temperatures greater than 70 K in pulse mode operation?"
 7.1,What are the DOIs and URLs of the articles being referenced by a QCL device with a working temperature greater than 225 K in the continuous wave mode?
-7.2,Query 7.2: What are the DOIs and URLs of the articles being referenced by a QCL device with an optical power less than 1 mW?
+7.2,What are the DOIs and URLs of the articles being referenced by a QCL device with an optical power less than 1 mW?
 7.3,What are the DOIs and URLs of the articles being referenced by a QCL device with a lasing frequency greater than 2.5 THz and an LO Phonon design type?
