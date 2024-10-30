@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 12 21:14:07 2024
 
-@author: Deperias Kerre
+@author: anonymous
 """
 #importing a graph structure and other ontology URIs
 from rdflib import Graph
