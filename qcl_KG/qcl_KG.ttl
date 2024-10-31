@@ -663,6 +663,10 @@
     QpOnto:DOI "10.1016/S1369-7021(08)70016-6"^^xsd:string ;
     QpOnto:URL "https://doi/org/10.1016/S1369-7021(08)70016-6"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/S1386-9477(02)00230-8> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1016/S1386-9477(02)00230-8"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1016/S1386-9477(02)00230-8"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.cplett.2003.12.060> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1016/j.cplett.2003.12.060"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1016/j.cplett.2003.12.060"^^schema:URL .
@@ -771,6 +775,10 @@
     QpOnto:DOI "10.1049/el.2010.3316"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1049/el.2010.3316"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2012.1204> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1049/el.2012.1204"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1049/el.2012.1204"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2013.2412> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1049/el.2013.2412"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1049/el.2013.2412"^^schema:URL .
@@ -828,6 +836,10 @@
     QpOnto:URL "https://.doi.org/10.1063/1.117737"^^schema:URL,
         "https://doi.org/10.1063/1.117737"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.120573> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.120573"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.120573"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.122350> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.122350"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.122350"^^schema:URL .
@@ -839,6 +851,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.122391> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.122391"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.122391"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.122812> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.122812"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.122812	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.122895 > a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.122895 "^^xsd:string ;
@@ -856,6 +872,10 @@
     QpOnto:DOI "10.1063/1.125154"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.125154"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.125227> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.125227"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.125227"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.125317> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.125317"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.125317"^^schema:URL .
@@ -863,6 +883,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.125642> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.125642"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.125642"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.127059> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.127059"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.127059	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1341216> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.1341216"^^xsd:string ;
@@ -875,6 +899,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1370537> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.1370537"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1370537"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1374520> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.1374520"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1374520	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1376154> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.1376154"^^xsd:string ;
@@ -1028,21 +1056,17 @@
     QpOnto:DOI "10.1063/1.2220546"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2220546"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2234805> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.2234805"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.2234805"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2335803> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2335803"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2335803"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2361264> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.2361264"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2361264"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071 > a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2437071 "^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2437071 "^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2747190> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.2747190"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.2747190"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.276686> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.276686"^^xsd:string ;
@@ -1063,6 +1087,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2899630> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2899630"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2899630"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2907508> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.2907508"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2907508	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2919051> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2919051"^^xsd:string ;
@@ -1124,10 +1152,6 @@
     QpOnto:DOI "10.1063/1.3272675"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3272675"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.331665> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.331665"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.331665"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3385778> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3385778"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3385778"^^schema:URL .
@@ -1139,6 +1163,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3478836> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3478836"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3478836"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3480406> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.3480406"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.3480406"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3481698> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3481698"^^xsd:string ;
@@ -1152,6 +1180,10 @@
     QpOnto:DOI "10.1063/1.3518487"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3518487"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3530628> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.3530628"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.3530628	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3553021> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3553021"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3553021"^^schema:URL .
@@ -1160,9 +1192,17 @@
     QpOnto:DOI "10.1063/1.357936"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.357936"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3589355> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.3589355"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.3589355"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3599518> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3599518"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3599518"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.362873> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.362873"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.362873"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.365649> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.365649"^^xsd:string ;
@@ -1184,6 +1224,10 @@
     QpOnto:DOI "10.1063/1.4719110"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4719110"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4769038> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.4769038"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4769038"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4795614> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4795614"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4795614"^^schema:URL .
@@ -1195,6 +1239,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4811124> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4811124"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4811124"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.482487> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.482487"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4824878	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4861122> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4861122"^^xsd:string ;
@@ -1212,10 +1260,6 @@
     QpOnto:DOI "10.1063/1.4881182"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4881182"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4882653> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.4882653"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.4882653"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4884056> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4884056"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4884056"^^schema:URL .
@@ -1231,10 +1275,6 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4916653> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4916653"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4916653"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4918671> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.4918671"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.4918671"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4932141> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4932141"^^xsd:string ;
@@ -1318,17 +1358,13 @@
     QpOnto:DOI "10.1063/1.5089854"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.5089854"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.881356> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.881356"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.881356"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.92353> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.92353"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.92353"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.93537> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.93537"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.93537"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.93906> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.93906"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.93906"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0015952> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/5.0015952"^^xsd:string ;
@@ -1398,6 +1434,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1086/310094> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1086/310094"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1086/310094"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0022-3727/47/37/374008> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1088/0022-3727/47/37/374008"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1088/0022-3727/47/37/374008	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0034-4885/64/11/204> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1088/0034-4885/64/11/204"^^xsd:string ;
@@ -1527,10 +1567,6 @@
     QpOnto:DOI "10.1103/PhysRevB.74.113303"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1103/PhysRevB.74.113303"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.81.205311> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1103/PhysRevB.81.205311"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1103/PhysRevB.81.205311"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.85.085310> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1103/PhysRevB.85.085310"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1103/PhysRevB.85.085310"^^schema:URL .
@@ -1563,6 +1599,10 @@
     QpOnto:DOI "10.1109/3.341705"^^xsd:string ;
     QpOnto:URL "https://doi/org/10.1109/3.341705"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.831022> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1109/3.831022"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1109/3.831022"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.910456> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1109/3.910456"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1109/3.910456"^^schema:URL .
@@ -1591,9 +1631,21 @@
     QpOnto:DOI "10.1109/JQE.2003.818315"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1109/JQE.2003.818315"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2007.900254> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1109/JQE.2007.900254"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1109/JQE.2007.900254"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2008.922327> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1109/JQE.2008.922327"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1109/JQE.2008.922327"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2010.2047379> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1109/JQE.2010.2047379"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1109/JQE.2010.2047379"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2010.2049253> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1109/JQE.2010.2049253"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1109/JQE.2010.2049253	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2016.2631899> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1109/JQE.2016.2631899"^^xsd:string ;
@@ -1711,13 +1763,13 @@
     QpOnto:DOI "10.1126/sciadv.aau1632"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1126/sciadv.aau1632"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.1066408> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1126/science.1066408"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1126/science.1066408"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.5> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1126/science.264.5158.5"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1126/science.264.5158.5"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.280.5369.1556> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1126/science.280.5369.1556"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1126/science.280.5369.1556"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1134/S1063782616100134> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1134/S1063782616100134"^^xsd:string ;
@@ -1747,6 +1799,10 @@
     QpOnto:DOI "10.1142/S2251171718400147"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1142/S2251171718400147"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1143/JJAP.25.L648> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1143/JJAP.25.L648"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1143/JJAP.25.L648"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1143/JJAP.29.1739> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1143/JJAP.29.1739"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1143/JJAP.29.1739"^^schema:URL .
@@ -1759,6 +1815,10 @@
     QpOnto:DOI "10.11906/TST.022-027.2008.03.03"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.11906/TST.022-027.2008.03.03"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1209/0295-5075/105/47005> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1209/0295-5075/105/47005"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1209/0295-5075/105/47005	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/AO.22.001099> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/AO.22.001099"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/AO.22.001099"^^schema:URL .
@@ -1766,6 +1826,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/AO.26.000744> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/AO.26.000744"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/AO.26.000744"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/JOSAB.13.001210> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/JOSAB.13.001210"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/JOSAB.13.001210	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.15.000113> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.15.000113"^^xsd:string ;
@@ -1791,6 +1855,10 @@
     QpOnto:DOI "10.1364/OE.18.016264"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.18.016264"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.19.000733> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/OE.19.000733"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/OE.19.000733"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.002772> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.20.002772"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.20.002772"^^schema:URL .
@@ -1799,6 +1867,10 @@
     QpOnto:DOI "10.1364/OE.20.023832"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.20.023832"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.007209> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/OE.21.007209"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/OE.21.007209	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.010172> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.21.010172"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.21.010172"^^schema:URL .
@@ -1806,6 +1878,10 @@
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.022194> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.21.022194"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.21.022194"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.032199> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/OE.21.032199"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/OE.21.032199	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.001523> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.23.001523"^^xsd:string ;
@@ -2227,10 +2303,6 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1016/S0921-4526(99)00273-2"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1016/S0921-4526(99)00273-2"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.jcrysgro.2008.10.090> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1016/j.jcrysgro.2008.10.090"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1016/j.jcrysgro.2008.10.090"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.sse.2013.01.014> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1016/j.sse.2013.01.014"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1016/j.sse.2013.01.014"^^schema:URL,
@@ -2276,6 +2348,11 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.1357444"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1357444"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1368156> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.1368156"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1368156"^^schema:URL,
+        "https://doi.org/10.1063/1.1368156	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1535733> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.1535733"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1535733"^^schema:URL .
@@ -2292,10 +2369,6 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.1906302"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1906302"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1949724> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.1949724"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.1949724"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2081122> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2081122"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2081122"^^schema:URL .
@@ -2304,25 +2377,29 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.2211301"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2211301"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2711710> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.2711710"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.2711710"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2234805> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.2234805"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2234805"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2719674> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2719674"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2719674"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2747190> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.2747190"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2747190"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2759271> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2759271"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2759271"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.331665> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.331665"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.331665"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3483764> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3483764"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3483764"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3504251> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.3504251"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.3504251"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3524197> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3524197"^^xsd:string ;
@@ -2348,10 +2425,6 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.3579260"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3579260"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3586773> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.3586773"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.3586773"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.362607> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.362607"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.362607"^^schema:URL .
@@ -2359,10 +2432,6 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3675452> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.3675452"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3675452"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4774085> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.4774085"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.4774085"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4803483> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4803483"^^xsd:string ;
@@ -2380,13 +2449,19 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.4871369"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4871369"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4882653> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.4882653"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4882653"^^schema:URL,
+        "https://doi.org/10.1063/1.4882653	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4916961> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4916961"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4916961"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4935942> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.4935942"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.4935942"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4918671> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.4918671"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4918671"^^schema:URL,
+        "https://doi.org/10.1063/1.4918671	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4937455> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4937455"^^xsd:string ;
@@ -2428,6 +2503,38 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:URL "https://doi.org/10.1063/1.4939551"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4943657> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/S1386-9477(02)00230-8>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.122812>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.127059>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1368156>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1374520>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1949724>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2793177>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2907508>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3480406>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3504251>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3530628>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4766915>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4774085>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.482487>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4882653>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4918671>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4935942>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0022-3727/47/37/374008>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/28/3/035011>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.80.245316>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.81.205311>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2010.2049253>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/TTHZ.2015.2442155>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1209/0295-5075/105/47005>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/JOSAB.13.001210>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.007209>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.032199>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.002720>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.005890> ;
     QpOnto:DOI "10.1063/1.4943657"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4943657"^^schema:URL .
 
@@ -2435,13 +2542,17 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.4996567"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4996567"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.93537> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.93537"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.93537"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.93906> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.93906"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.93906"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0144705> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/5.0144705"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/5.0144705"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/28/3/035011> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1088/0268-1242/28/3/035011"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1088/0268-1242/28/3/035011"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1361-6641/abdd4b> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1002/lpor.200810030>,
@@ -2474,9 +2585,10 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1103/PhysRevB.79.195323"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1103/PhysRevB.79.195323"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.80.245316> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1103/PhysRevB.80.245316"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1103/PhysRevB.80.245316"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.81.205311> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1103/PhysRevB.81.205311"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1103/PhysRevB.81.205311"^^schema:URL,
+        "https://doi.org/10.1103/PhysRevB.81.205311	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevLett.63.74> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1103/PhysRevLett.63.74"^^xsd:string ;
@@ -2506,17 +2618,13 @@ QpOnto:BoundToContinum a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1109/JSTQE.2010.2049735"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1109/JSTQE.2010.2049735"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/TTHZ.2015.2442155> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1109/TTHZ.2015.2442155"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1109/TTHZ.2015.2442155"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.1066408> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1126/science.1066408"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1126/science.1066408"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.16.020748> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.16.020748"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.16.020748"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.002720> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1364/OE.23.002720"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1364/OE.23.002720"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.14.000171> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OPEX.14.000171"^^xsd:string ;
@@ -2565,6 +2673,10 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1002/lpor.200810030"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1002/lpor.200810030"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.jcrysgro.2008.10.090> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1016/j.jcrysgro.2008.10.090"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1016/j.jcrysgro.2008.10.090"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2009.168> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1038/nphoton.2009.168"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1038/nphoton.2009.168"^^schema:URL .
@@ -2597,7 +2709,25 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1063/1.1862344"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1862344"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1949724> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.1949724"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1949724"^^schema:URL,
+        "https://doi.org/10.1063/1.1949724	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2136222> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.120573>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.125227>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1571653>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1611642>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1695099>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.331665>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.362873>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.881356>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.709589>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.831022>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.280.5369.1556> ;
     QpOnto:DOI "10.1063/1.2136222"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2136222"^^schema:URL .
 
@@ -2605,9 +2735,9 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1063/1.2136420"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2136420"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.2991447"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.2991447"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2711710> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.2711710"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2711710"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3068496> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1002/lpor.200810030>,
@@ -2634,6 +2764,15 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1063/1.3243459"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3243459"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3586773> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.3586773"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.3586773"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4774085> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.4774085"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4774085"^^schema:URL,
+        "https://doi.org/10.1063/1.4774085	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4805040> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4805040"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4805040"^^schema:URL .
@@ -2657,6 +2796,11 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.21.010172> ;
     QpOnto:DOI "10.1063/1.4862177"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4862177"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4935942> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.4935942"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4935942"^^schema:URL,
+        "https://doi.org/10.1063/1.4935942	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/5.0176281> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1021/acsphotonics.6b00750>,
@@ -2724,6 +2868,11 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.35848/1882-0786/ac2a02> ;
     QpOnto:DOI "10.1063/5.0198236"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/5.0198236"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/28/3/035011> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1088/0268-1242/28/3/035011"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1088/0268-1242/28/3/035011"^^schema:URL,
+        "https://doi.org/10.1088/0268-1242/28/3/035011	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1361-6641/ab1401> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1002/1521-396X(200207)192:1%3C124::AID-PSSA124%3E3.0.CO;2-3>,
@@ -2826,6 +2975,11 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1103/PhysRevB.76.115305"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1103/PhysRevB.76.115305"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.80.245316> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1103/PhysRevB.80.245316"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1103/PhysRevB.80.245316"^^schema:URL,
+        "https://doi.org/10.1103/PhysRevB.80.245316	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2002.1005404> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1109/JQE.2002.1005404"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1109/JQE.2002.1005404"^^schema:URL .
@@ -2835,6 +2989,10 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:URL "https://doi.org/10.1109/TTHZ.2011.2177176"^^schema:URL,
         "https://doi/org/10.1109/TTHZ.2011.2177176"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/TTHZ.2015.2442155> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1109/TTHZ.2015.2442155"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1109/TTHZ.2015.2442155"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.18.008043> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OE.18.008043"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.18.008043"^^schema:URL .
@@ -2843,13 +3001,14 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1364/OE.20.020647"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OE.20.020647"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.23.002720> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/OE.23.002720"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/OE.23.002720"^^schema:URL,
+        "https://doi.org/10.1364/OE.23.002720	"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.12.001879> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1364/OPEX.12.001879"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OPEX.12.001879"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.005890> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1364/OPEX.13.005890"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1364/OPEX.13.005890"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#frequency_value_ID/3> a QpOnto:FrequencyValue ;
     QUDT_properties:hasUnit QUDT_units:TeraHZ ;
@@ -2875,14 +3034,6 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1063/1.1590749"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1590749"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1695099> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.1695099"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.1695099"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1886266> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.1886266"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.1886266"^^schema:URL .
-
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2194889> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.2194889"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2194889"^^schema:URL .
@@ -2906,6 +3057,10 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1063/1.2737129"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2737129"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.2991447"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2991447"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3496035> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166>,
@@ -2921,6 +3076,11 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331> ;
     QpOnto:DOI "10.1063/1.3496035"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3496035"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3504251> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.3504251"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.3504251"^^schema:URL,
+        "https://doi.org/10.1063/1.3504251	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4759043> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.4759043"^^xsd:string ;
@@ -3033,6 +3193,11 @@ QpOnto:LaserWorkingMode prov:wasAttributedTo bibo:AcademicArticle .
     QpOnto:DOI "10.1088/1367-2630/18/12/123004"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1088/1367-2630/18/12/123004"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.005890> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/OPEX.13.005890"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/OPEX.13.005890"^^schema:URL,
+        "https://doi.org/10.1364/OPEX.13.005890	"^^schema:URL .
+
 QpOnto:DoubleResonantPhonon a QpOnto:LaserDesignType ;
     rdfs:label "Resonant Phonon"^^xsd:string .
 
@@ -3043,9 +3208,13 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.1498861"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.1498861"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1571653> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1063/1.1571653"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.1571653"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1695099> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.1695099"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1695099"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1886266> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.1886266"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1886266"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2216112> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
@@ -3067,32 +3236,40 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
     QpOnto:URL "https://doi.org/10.1063/1.2216112"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4816352> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.jcrysgro.2008.10.090>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2012.1204>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1368156>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1886266>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2234805>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2361264>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2711710>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2747190>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3504251>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3586773>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3589355>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4766915>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4769038>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.93537>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.93906>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/11/12/125022>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.709589>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2007.900254>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JQE.2010.2047379>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.1066408>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1143/JJAP.25.L648>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.19.000733>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.003866> ;
     QpOnto:DOI "10.1063/1.4816352"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.4816352"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106> a bibo:AcademicArticle ;
-    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.jcrysgro.2008.10.090>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nmat2511>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2008.251>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2009.1995>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.104902>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2081122>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2335803>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2899630>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2957673>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3189703>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.79.195323>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1116/1.3276432>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.12.001879>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331> ;
-    QpOnto:DOI "10.1063/1.3532106"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.3532106"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1571653> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1063/1.1571653"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1571653"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3702571> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
@@ -3141,31 +3318,6 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.003866> ;
     QpOnto:DOI "10.1063/1.3702571"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.3702571"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4766915> a bibo:AcademicArticle ;
-    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2012.143>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2009.1995>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el:20063921>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.104659>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2081122>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2977994>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3504251>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3586773>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3658874>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4719110>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/27/4/045013>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/11/12/125022>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevLett.72.2749>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JSTQE.2010.2049735>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.16.003242>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.003866>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.020647> ;
-    QpOnto:DOI "10.1063/1.4766915"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.4766915"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/013> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1007/s11664-000-0158-5>,
@@ -3236,6 +3388,52 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.2404598"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2404598"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/j.jcrysgro.2008.10.090>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nmat2511>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2008.251>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2009.1995>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.104902>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2081122>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2335803>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2899630>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2957673>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3189703>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevB.79.195323>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1116/1.3276432>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.12.001879>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331> ;
+    QpOnto:DOI "10.1063/1.3532106"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.3532106"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el:20063921> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1049/el:20063921"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1049/el:20063921"^^schema:URL,
+        "https://doi/org/10.1049/el:20063921"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el:20063921>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1559419>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1695099>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2000342>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2067699>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2189671>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/012>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/013>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.14.000171> ;
+    QpOnto:DOI "10.1063/1.2437071"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.2437071"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2793177> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/42872>,
@@ -3263,36 +3461,31 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
     QpOnto:DOI "10.1063/1.2793177"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1063/1.2793177"^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/11/12/125022> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1088/1367-2630/11/12/125022"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1088/1367-2630/11/12/125022"^^schema:URL,
-        "https://doi/org/10.1088/1367-2630/11/12/125022"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.709589> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1109/3.709589"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1109/3.709589"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el:20063921> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1049/el:20063921"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1049/el:20063921"^^schema:URL,
-        "https://doi/org/10.1049/el:20063921"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2437071> a bibo:AcademicArticle ;
-    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4766915> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2012.143>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2009.1995>,
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el:20063921>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1559419>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1695099>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2000342>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2067699>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2189671>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/012>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/20/7/013>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.104659>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2081122>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2977994>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2991447>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3114418>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3504251>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3532106>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3586773>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.3658874>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4719110>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/0268-1242/27/4/045013>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/11/12/125022>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/PhysRevLett.72.2749>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/JSTQE.2010.2049735>,
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.13.003331>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OPEX.14.000171> ;
-    QpOnto:DOI "10.1063/1.2437071"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.2437071"^^schema:URL .
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.16.003242>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.003866>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.020647> ;
+    QpOnto:DOI "10.1063/1.4766915"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.4766915"^^schema:URL,
+        "https://doi.org/10.1063/1.4766915	"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.4826943> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
@@ -3320,25 +3513,14 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
     QpOnto:URL "https://doi.org/10.1063/1.4826943"^^schema:URL,
         "https://doi/org/10.1063/1.4826943"^^schema:URL .
 
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1088/1367-2630/11/12/125022> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1088/1367-2630/11/12/125022"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1088/1367-2630/11/12/125022"^^schema:URL,
+        "https://doi/org/10.1088/1367-2630/11/12/125022"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1049/el.2013.4035> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1049/el.2013.4035"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1049/el.2013.4035"^^schema:URL .
-
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1611642> a bibo:AcademicArticle ;
-    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1007/s11664-000-0158-5>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.102993>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.105849>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1357444>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1469657>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1498861>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1590749>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/RevModPhys.54.437>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/33.232058>,
-        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553> ;
-    QpOnto:DOI "10.1063/1.1611642"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1063/1.1611642"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.2189671> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/1350-4495(94)00058-S>,
@@ -3360,16 +3542,31 @@ QpOnto:LOPhononDepopulation a QpOnto:LaserDesignType ;
     QpOnto:URL "https://doi.org/10.1063/1.2189671"^^schema:URL,
         "https://doi.org/10.1063/1.2189671 "^^schema:URL .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.003866> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1364/OE.20.003866"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1364/OE.20.003866"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/3.709589> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1109/3.709589"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1109/3.709589"^^schema:URL .
 
 QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1038/nphoton.2007.166"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1038/nphoton.2007.166"^^schema:URL,
-        "https://doi/org/10.1038/nphoton.2007.166"^^schema:URL .
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1611642> a bibo:AcademicArticle ;
+    bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1007/s11664-000-0158-5>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.102993>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.105849>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1357444>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1469657>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1498861>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1590749>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1103/RevModPhys.54.437>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1109/33.232058>,
+        <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553> ;
+    QpOnto:DOI "10.1063/1.1611642"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1063/1.1611642"^^schema:URL .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1364/OE.20.003866> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1364/OE.20.003866"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1364/OE.20.003866"^^schema:URL .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1855394> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1063/1.1855394"^^xsd:string ;
@@ -3399,6 +3596,13 @@ QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
     QpOnto:DOI "10.1364/OPEX.13.003331"^^xsd:string ;
     QpOnto:URL "https://doi.org/10.1364/OPEX.13.003331"^^schema:URL .
 
+QUDT_units:MilliW rdfs:label "Milliwatts"^^xsd:string .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/nphoton.2007.166> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1038/nphoton.2007.166"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1038/nphoton.2007.166"^^schema:URL,
+        "https://doi/org/10.1038/nphoton.2007.166"^^schema:URL .
+
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1063/1.1554479> a bibo:AcademicArticle ;
     bibo:cites <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1016/S0921-4526(99)00273-2>,
         <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a>,
@@ -3416,9 +3620,8 @@ QpOnto:PulsedOperation a QpOnto:LaserWorkingMode .
 
 <https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1126/science.264.5158.553> a bibo:AcademicArticle ;
     QpOnto:DOI "10.1126/science.264.5158.553"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1126/science.264.5158.553"^^schema:URL .
-
-QUDT_units:MilliW rdfs:label "Milliwatts"^^xsd:string .
+    QpOnto:URL "https://doi.org/10.1126/science.264.5158.553"^^schema:URL,
+        "https://doi.org/10.1126/science.264.5158.553	"^^schema:URL .
 
 QpOnto:PowerValue QUDT_properties:hasUnit QUDT_units:MilliW .
 
@@ -3432,16 +3635,17 @@ QpOnto:FrequencyValue QUDT_properties:hasUnit QUDT_units:TeraHZ .
 
 QUDT_units:TeraHZ rdfs:label "Terahertz"^^xsd:string .
 
-<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a> a bibo:AcademicArticle ;
-    QpOnto:DOI "10.1038/417156a"^^xsd:string ;
-    QpOnto:URL "https://doi.org/10.1038/417156a"^^schema:URL,
-        "https://doi/org/10.1038/417156a"^^schema:URL .
-
 QpOnto:LaserHeterostructure prov:wasAttributedTo bibo:AcademicArticle ;
     QpOnto:hasDesignType QpOnto:LaserDesignType ;
     QpOnto:hasMaterials QpOnto:HeterostructureMaterials .
 
 QpOnto:ContinousWaveOperation a QpOnto:LaserWorkingMode .
+
+<https://github.com/DeperiasKerre/qcl_Onto/blob/main/qclontology/version-1.0/qclonto.owl#paper_id/10.1038/417156a> a bibo:AcademicArticle ;
+    QpOnto:DOI "10.1038/417156a"^^xsd:string ;
+    QpOnto:URL "https://doi.org/10.1038/417156a"^^schema:URL,
+        "https://doi.org/10.1038/417156a	"^^schema:URL,
+        "https://doi/org/10.1038/417156a"^^schema:URL .
 
 QpOnto:LasingFrequency a mdo:Property ;
     prov:wasAttributedTo bibo:AcademicArticle ;
