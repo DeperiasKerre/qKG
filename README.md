@@ -12,6 +12,7 @@
 * The SPARQL queries and there results can be found [here](https://github.com/DeperiasKerre/qKG/tree/main/Results/KG). 
 ## Citation
 * Kerre, D., Laurent, A., Maussang, K., & Owuor, D. (2025). Semantic Enrichment of the Quantum Cascade Laser Properties in Text-A Knowledge Graph Generation Approach. In LLM-TEXT2KG 2025: 4th International Workshop on LLM-Integrated Knowledge Graph Generation from Text (Text2KG) Co-located with the Extended Semantic Web Conference (ESWC 2025), June 1 - June 5, 2025, Portoroz, Slovenia.
+* Paper Proceedings Link: [here](https://ceur-ws.org/Vol-4020/Paper_ID_4.pdf)
 ### License
 This work is licensed under a [Creative Commons Attribution 4.0 International
 License](http://creativecommons.org/licenses/by/4.0/).
