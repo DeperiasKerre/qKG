@@ -18,8 +18,7 @@ License](http://creativecommons.org/licenses/by/4.0/).
 
 [![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 ## Acknowledgements
-* This work was funded by the French Embassy in Kenya (Scientific and Academic Cooperation Depart-
-ment) and the CNRS (under the framework “Dispositif de Soutien aux Collaborations avec l’Afrique
+* This work was funded by the French Embassy in Kenya (Scientific and Academic Cooperation Department) and the CNRS (under the framework “Dispositif de Soutien aux Collaborations avec l’Afrique
 sub-saharienne”).
 ## References
 * Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & Wang, H. (2023). Retrieval-augmented
