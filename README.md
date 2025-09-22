@@ -24,7 +24,5 @@ sub-saharienne”).
 ## References
 * Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & Wang, H. (2023). Retrieval-augmented
 generation for large language models: A survey. arXiv preprint arXiv:2312.10997.
-* Kerre, D., Laurent, A., Maussang, K., & Owuor, D.(2024). A Concise Ontological Model of the
-Design and Optoelectronic Properties in the Quantum Cascade Laser Domain. (Preprint-Under
-Review).
+* Kerre, D., Laurent, A., Maussang, K., & Owuor, D. (2025). A concise ontological model of the design and optoelectronic properties in the quantum cascade laser domain. Semantic Web, 16(4), 22104968251359870. [DOI:10.1177/22104968251359870](https://doi.org/10.1177/22104968251359870)
 
